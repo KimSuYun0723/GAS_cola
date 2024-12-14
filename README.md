@@ -2,6 +2,7 @@
 This is a repository for experiments of GAS(Gradient Grammatical Acceptability Score) to improve CoLA benchmark.
 
 ## File Tree
+```
 📦 GAS_cola     
  ┣ 📂 bert_cased             // CoLA로 bert-base-cased tuing 폴더     
  ┃ ┣ 📜 bert_cola.py         // original CoLA로 fine-tuning한 학습 코드     
@@ -33,4 +34,5 @@ This is a repository for experiments of GAS(Gradient Grammatical Acceptability S
  ┃ ┣ 📜 run_glue_gas.py       // GAS labeled CoLA로 학습된 모델 평가     
  ┃ ┣ 📜 run_glue.py           // Baseline 평가     
  ┣ 📜 .gitignore                 
- ┣ 📜 README.md                  
+ ┣ 📜 README.md
+``` 
