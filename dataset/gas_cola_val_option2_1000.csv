@@ -1,0 +1,1001 @@
+sentence,corrected_sentence,original_label,edit_distance_ratio,GAS_log_inv,GAS_corrected,GAS
+The spaceship revolves the earth.,The spaceship revolves around the Earth.,0,0.2424242424242424,1.6341272049107043,1.2783298498082194,0.1655504254615519
+Tamara poured the bowl with water.,Tamara poured the bowl with water.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I assumed him to be innocent,I assumed him to be innocent.,1,0.0357142857142857,3.367268795895242,1.835011933447639,0.3560386406440077
+The student met John came.,The student met John.,0,0.1923076923076923,1.8245449307738917,1.3507571694327192,0.1903339621536662
+Some sentences can go on and on.,Some sentences can go on and on.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The book brings easily to the meeting.,The book is easily brought to the meeting.,0,0.3157894736842105,1.4271139489782043,1.1946187462861129,0.1369057480603504
+John in the doorway waved to his father.,John in the doorway waved to his father.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+That she loved him and it was painfully evident that he loved another.,That she loved him and it was painfully evident that he loved another.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The sheep got infected with scrapie.,The sheep got infected with scrape.,1,0.0277777777777777,3.610882886264709,1.9002323242868773,0.3783560749742923
+Sylvia squirmed.,Sylvia squirmed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sam gave the ball off the shelf.,Sam gave the ball off the shelf.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The extremely tired students hated syntactic trees with a passion.,The extremely tired students hated syntactic trees with a passion.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jason intended for PRO to learn magic.,Jason intended for PRO to learn magic.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"If he is a rich man, he'd buy a diamond ring.","If he is a rich man, he'd buy a diamond ring.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Where has he put the cake?,Where did he put the cake?,1,0.1153846153846153,2.2686757712405754,1.506212392473444,0.2435283954722695
+Most helpful advice is unwanted.,Most helpful advice is not needed.,1,0.21875,1.7176477461686943,1.310590609675155,0.1765895710494722
+Maxwell is the man who won the Nobel Prize for astrology.,Maxwell is the man who won the Nobel Prize for astrology.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who did Kim work for and Sandy rely on Mary?,Who did Kim work for and why did Sandy rely on Mary?,0,0.1818181818181818,1.8717975230702044,1.3681365147784794,0.196280912079394
+Celia brushed herself.,Celia brushed herself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Carla shoveled the snow from among the bushes.,Carla shoveled the snow from among the bushes.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What do you remember where we bought?,What do you remember where we bought it?,0,0.081081081081081,2.59025575718812,1.6094271518736474,0.2788469298322986
+Phineas knows a girl who is jealous of Maxime.,Phineas knows a girl who is jealous of Maxime.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I liked Mary and John.,I liked Mary and John.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Angela characterized Shelly as a lifesaver.,Angela described Shelly as a lifesaver.,1,0.1860465116279069,1.8523795591958343,1.3610215131274872,0.1938462657968029
+The secretary transcribed the speech into the record.,The secretary transcribed the speech into the record.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John believes Bill to have visited Mary.,John believes Bill to have visited Mary.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jake threw the ball halfway to Bill.,Jake threw the ball halfway to Bill.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I have six of them more.,I have six of them.,0,0.2083333333333333,1.757853945149758,1.3258408445774168,0.1818079714848753
+The jeweller copied the ring with the name.,The jeweller copied the ring with the name.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"Fluffy is sick, as nobody knows.","Fluffy is sick, as nobody knows.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I liked Mary.,I liked Mary.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"He can't pay taxes, can he?","He can't pay taxes, can he?",1,0.0,13.815511557963774,3.716922323369668,1.0
+The cook boned the fish of bones.,Cook the fish with bones.,0,0.4545454545454545,1.1631492973078643,1.078493995026335,0.0971696091471573
+Rub the baby with the cloth torn.,Rub the baby with the cloth torn.,1,0.0,13.815511557963774,3.716922323369668,1.0
+People are said to do crazier things at higher speeds there by Dorothy than they are by other people.,People are said to do crazier things at higher speeds there by Dorothy than they are by other people.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jack is the person whom Jenny fell in love with.,Jack is the person whom Jenny fell in love with.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This rock is too heavy for me to begin to decide about helping Bob to try to pick it up.,This rock is too heavy for me to begin to decide about helping Bob to pick it up.,1,0.0795454545454545,2.607955097511036,1.6149164366960405,0.2807252803292459
+John and Mary will play with Henry and with Sue.,John and Mary will play with Henry and Sue.,1,0.1041666666666666,2.360845306824068,1.536504248879276,0.2538938119835862
+Cynthia nibbled at the carrot .,Cynthia nibbled at the carrot.,1,0.032258064516129,3.465705872029748,1.8616406398738043,0.3651505824664851
+Gilgamesh perhaps should be leaving.,Gilgamesh perhaps should be leaving.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I searched for treasure in the cave.,I searched for treasure in the cave.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"No writer, nor any playwright, speaks clearly.","No writer, nor any playwright, speaks clearly.",1,0.0,13.815511557963774,3.716922323369668,1.0
+"I don't think Fred will, either.","I don't think Fred will, either.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I aren't going.,I amn't going.,0,0.1333333333333333,2.140059545876948,1.462894236052951,0.2287055755108516
+Gilgamesh didn't fly the broomstick.,Gilgamesh didn't fly the broomstick.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Heidi gave a present to herself.,Heidi gave a present to herself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The boy's playing the piano loudly drove everyone crazy.,The boy playing the piano loudly drove everyone crazy.,1,0.0357142857142857,3.367268795895242,1.835011933447639,0.3560386406440077
+Seoul was slept in by the businessman last night.,Seoul was slept in by the businessman last night.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Who do you think saw you?,Who do you think saw you?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary really appreciates and constantly praises himself and Bill knows it.,Mary really appreciates and constantly praises himself and Bill knows it.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"The angrier that Sue gets, the more that Fred admires her.","The angrier that Sue gets, the more Fred admires her.",1,0.0862068965517241,2.533686134659209,1.5917556768107373,0.2728000175221919
+There hopes to finish the project.,There is hope to finish the project.,0,0.1176470588235294,2.2512841933790617,1.5004280033973845,0.2415490647493983
+She swatted him.,She swatted him.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Ellen and Helen conferred together.,Ellen and Helen conferred together.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John included her name in the list.,John included her name in the list.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I pushed against the table.,I pushed against the table.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This girl in the or on the red coat will put a picture of Bill on your desk.,This girl in the red coat will put a picture of Bill on your desk.,0,0.131578947368421,2.1517554870088818,1.4668863238195664,0.2300716077505506
+It is after class that John wants to look at your notes.,It is after class that John wants to look at your notes.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I gave a birthday present to my brother.,I gave a birthday present to my brother.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The dragons were slain all.,The dragons were slain all.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Copper rods bend easily.,Copper rods bend easily.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The sun dried the clothes.,The sun dried the clothes.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Frantically at, Anson danced extremely Trade","Frantically, Anson danced extremely Trade.",0,0.0909090909090909,2.484896566514746,1.576355469592676,0.2675302988216551
+Carol carved the marble.,Carol carved the marble.,1,0.0,13.815511557963774,3.716922323369668,1.0
+In preparation for the return fixture this team has trained more efficiently than they had in recent months.,"In preparation for the return fixture, this team has trained more efficiently than they have in recent months.",1,0.0277777777777777,3.610882886264709,1.9002323242868773,0.3783560749742923
+Reports the lettering on the covers of which the government prescribes the height of are a shocking waste of public funds.,Reports the lettering on the covers of which the government prescribes the height are a shocking waste of public funds.,1,0.0245901639344262,3.729661758793915,1.9312332222685884,0.3889641148217083
+Steve pelted acorns against Anna.,Steve pelted acorns at Anna.,0,0.1515151515151515,2.028142515734741,1.4241286865079086,0.2154405889764811
+I put on the table.,I put it on the table.,0,0.1578947368421052,1.992424695012919,1.411532746702293,0.2111304483007995
+John is afraid of dogs.,John is afraid of dogs.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The horse groomed itself.,The horse groomed itself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Bob proved this set is recursive.,Bob proved this set is recursive.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Carla mopped under the furniture.,Carla mopped under the furniture.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Guinevere has a single bone that is in every corner of the house.,Guinevere has a single bone that is in every corner of the house.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Mary send a book.,Mary sends a book.,1,0.0588235294117647,2.8903557024846616,1.7001046151589203,0.3098753905033494
+I whipped the eggs into a froth.,I whipped the eggs into a froth.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I have eaten the beef waffles.,I have eaten the beef waffles.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I found delicious some fruit which I picked up on my way home.,I found some delicious fruit which I picked up on my way home.,1,0.1612903225806451,1.97407568715197,1.4050180380165835,0.20890121321951
+John gave the boys the CDs.,John gave the boys the CDs.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I explained to fix the sink.,I explained how to fix the sink.,0,0.1428571428571428,2.079435416703953,1.4420247628608716,0.2215643564614303
+The music lent a festive air to the party.,The music lent a festive air to the party.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The men were struck by the idea as nonsense.,The men were struck by the idea as nonsense.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I wonder who Jim kissed.,I wonder who Jim kissed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Several people are sick.,Several people are sick.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Carrie touched him on the shoulder.,Carrie touched him on the shoulder.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It was an explosion that you heard.,It was an explosion that you heard.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"It's obvious that Mary, he can't stand.","It's obvious Mary, he can't stand.",1,0.1282051282051282,2.174744807877824,1.4747015996050945,0.2327458772830118
+That stone has a hole in the tarpaulin which it is holding down.,That stone has a hole in the tarpaulin which it is holding down.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+How do you wonder whether John said Mary solved the problem?,How do you wonder whether John said Mary solved the problem?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The captain named the ship Seafarer.,"The captain named the ship ""Seafarer"".",1,0.0555555555555555,2.944421926696411,1.715931795467527,0.3152912129574275
+It is likely that Jean left.,It is likely that Jean left.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I wonder who it was you saw.,I wonder who it was you saw.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"When Mary listens to the Grateful Dead, she gets depressed.","When Mary listens to the Grateful Dead, she gets depressed.",1,0.0,13.815511557963774,3.716922323369668,1.0
+"The candidate was dogged by charges of infidelity, or at least trying to.","The candidate was dogged by charges of infidelity, or at least trying to.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+How carefully have you considered your future career?,How carefully have you considered your future career?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The box at once contained the ball.,The box at once contained the ball.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Alex read the newspaper for an hour.,Alex read the newspaper for an hour.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The committee have all now resigned.,The committee has all now resigned.,1,0.0555555555555555,2.944421926696411,1.715931795467527,0.3152912129574275
+Felicia threw the ball out the window.,Felicia threw the ball out the window.,1,0.0,13.815511557963774,3.716922323369668,1.0
+How brave they must believe that you are!,How brave they must believe that you are!,1,0.0,13.815511557963774,3.716922323369668,1.0
+Janet broke at the vase.,Janet broke into the vase.,0,0.125,2.197217466256713,1.4823014087076598,0.2353464173654419
+"Clearly, John immediately will probably learn French perfectly.","Clearly, John will probably learn French perfectly.",0,0.1904761904761904,1.8325770537617383,1.3537270972251898,0.1913502266626835
+The trail we walked today was built by slave labor.,The trail we walked today was built by slave labor.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Books send easily to children.,Books sent easily to children.,0,0.0333333333333333,3.4339581726766046,1.8530942158121928,0.3622261250184467
+"Lewis sent Sam a bicycle, but it never arrived.","Lewis sent Sam a bicycle, but it never arrived.",1,0.0,13.815511557963774,3.716922323369668,1.0
+What they saw is Bill leave.,What they saw was Bill leaving.,0,0.1785714285714285,1.8870648975325484,1.3737048072757656,0.1981862978113855
+The question of whether John met Mary worries the people who support.,The question of whether John met Mary worries the people who support him.,1,0.0579710144927536,2.9041487753823128,1.704156323634165,0.3112618240505603
+Flora cooks.,Flora Cooks.,1,0.0833333333333333,2.564938280610033,1.6015424691871374,0.2761489103048618
+A poodle gives live birth.,A poodle gives a live birth.,1,0.0769230769230769,2.6390452582707558,1.6245138529020784,0.2840093714418952
+I cycled around France.,I cycled around France.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Dracula thought that himself was the Prince of Darkness.,Dracula thought that himself was the Prince of Darkness.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The commuters travelled by army lorry because the bus drivers were on strike.,The commuters traveled by army lorry because the bus drivers were on strike.,1,0.0129870129870129,4.356632816832939,2.08725485191266,0.4423523639395082
+Who does Phineas know a girl who is working with?,Who does Phineas know about a girl she is working with?,0,0.1632653061224489,1.9636044608222252,1.4012867161370743,0.2076244111344632
+It snowed,It snowed.,1,0.1111111111111111,2.3025769930341404,1.5174244604045832,0.2473649960589889
+Anson appeared,Anson appeared.,1,0.0714285714285714,2.708037134533107,1.6456114773946815,0.291228660426214
+Her efficient looking up of the answer pleased the boss.,Her efficient looking up of the answer pleased the boss.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Raffi has made pasta, and David has too.","Raffi has made pasta, and David has too.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The video which I thought you recommended was really terrific.,The video which I thought you recommended was really terrific.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Buffy couldn't do 100 push ups and anybody laughed.,Buffy couldn't do 100 push ups and anybody laughed.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+For John to remove the mother is undeniable.,For John to remove the mother is undeniable.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+It is likely that John will leave.,It is likely that John will leave.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The DA proved Jones guilty and the Assistant DA will prove Smith.,The DA proved Jones guilty and the Assistant DA proved Smith guilty.,1,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+Anne played the tune on the piano.,Anne played the tune on the piano.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I demand that the more John eat, the more he pay.","I demand that the more John eats, the more he pays.",0,0.0408163265306122,3.238654913248353,1.7996263260044716,0.3439302193329995
+They want to leave the meeting.,They want to leave the meeting.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Which student's grades went unreported?,Which student's grades went unreported?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Paula swatted Deirdre's back.,Paula swatted Deirdre back.,1,0.0689655172413793,2.7408264595137584,1.655544158128607,0.2946274740050755
+He said that himself was hungry.,He said that he was hungry.,0,0.15625,2.001474465095095,1.414734768461953,0.2122261318657984
+The convict escaped.,The convict escaped.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Our love their.,Our love for them.,1,0.4,1.2527611827839522,1.1192681460597154,0.1111219088244709
+I know a man who Bill saw and liked Mary.,I know a man who Bill saw and liked Mary.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+My these jobs are in jeopardy.,My jobs are in jeopardy.,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+John likes not Mary.,John likes Mary.,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+He mended the shoe.,He mended the shoe.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The terrier attacked the burglar and the terrier savaged the burglar's ankles.,The terrier attacked the burglar and savaged the burglar's ankles.,1,0.1538461538461538,2.0148973872296807,1.4194708123908997,0.213846734686627
+"Tom picked, and I washed, and Suzie will prepare, these grapes.","Tom picked, and I washed, and Suzie prepared, these grapes.",1,0.0952380952380952,2.4423374484673905,1.5627979551008475,0.2628911217872968
+Sharks seem to swim slowly in the tropics.,Sharks seem to swim slowly in the tropics.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John left very early.,John left very early.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Everyone likes himself.,Everyone likes himself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The roof is leaking.,The roof is leaking.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It's probable that in general he understands what's going on.,It's probable that in general he understands what's going on.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This car stinks.,This car stinks.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Did you see Mary?,Did you see Mary?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who did you hear an oration about?,Who did you hear the oration about?,1,0.088235294117647,2.5122952096255,1.585022147992103,0.2704959054908586
+Lucy seems to have been mugged.,Lucy seems to have been mugged.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The one whose I stole bike was John's.,The one whose I stole the bike was John's.,0,0.1052631578947368,2.351366661970098,1.5334166628708903,0.2528372866071728
+The thief chased down the street.,The thief chased down the street.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The owl hated the evil and the wise eagle.,The owl hated the evil and the wise eagle.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The ball rolled down the hill.,The ball rolled down the hill.,1,0.0,13.815511557963774,3.716922323369668,1.0
+An example of these substances be tobacco.,An example of these substances is tobacco.,1,0.0476190476190476,3.091022408123812,1.7581303729029345,0.3297309298715362
+Susan whispered a few words.,Susan whispered a few words.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Will put, this girl in the red coat will put a picture of Bill on your desk before tomorrow.","Will put, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+A woman hit a girl who was pregnant.,A woman hit a girl who was pregnant.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Little children amuse easily.,Little children amuse themselves easily.,1,0.3793103448275862,1.290982269955142,1.1362140071109588,0.1169205269608363
+The thief stole the painting for Mr. Smith.,The thief stole the painting for Mr. Smith.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Groceries are bulging in the bag.,Groceries are bulging in the bag.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Alison poked Daisy's ribs.,Alison poked Daisy's ribs.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John's mother likes him.,John's mother likes him.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I thought she was pregnant,I thought she was pregnant.,1,0.0384615384615384,3.295811829304822,1.8154370904288648,0.3493404245190241
+The two boys looked up the high stairs from the floor.,The two boys looked up the high stairs from the floor.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Celia braided.,Celia braided.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John sounded the student.,John sounded the student.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Stephen persuaded the cat to be out of the bag.,Stephen persuaded the cat to be out of the bag.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Eleanor and Marianne travelled from Shropshire.,Eleanor and Marianne traveled from Shropshire.,1,0.0212765957446808,3.871154991178544,1.9675250928967956,0.4013826457296971
+Smith threw the first base the ball.,Smith threw the first base ball.,0,0.1111111111111111,2.3025769930341404,1.5174244604045832,0.2473649960589889
+the logs piled the barge high.,the logs piled the barge high.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+David constructed the bricks into a house.,David constructed the bricks into a house.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Alison poked the needle through the cloth.,Alison poked the needle through the cloth.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Because the bus drivers were on strike, the commuters travelled by army lorry.","Because the bus drivers were on strike, the commuters traveled by army lorry.",1,0.0128205128205128,4.369370842850148,2.090304007279838,0.4433957389299705
+They are dancing.,They are dancing.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The king loved peanut butter cookies.,The king loved peanut butter cookies.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The birds are singing because the weather is lovely today.,The birds are singing because the weather is lovely today.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He intended to will the large amount of money to Frank.,He intended to will the large amount of money to Frank.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I see someone running down the street.,I see someone running down the street.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The baby dressed.,The baby is dressed.,1,0.1764705882352941,1.8971151682349088,1.3773580392312337,0.1994363787018914
+Many flags fluttered over the fort.,Many flags fluttered over the fort.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"It is important to be more careful, the more you eat.","It is important to be more careful, the more you eat.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I screamed at some children watching me.,I screamed at some children watching me.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Alex read the newspaper in an hour.,Alex read the newspaper in an hour.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Where and when did Bill put the book?,Where and when did Bill put the book?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Carla hit at the door.,Carla hit the door.,1,0.1363636363636363,2.1202570828932594,1.4561102578078555,0.2263842004464766
+"Fred likes eggplants, although he likes cabbage too.","Fred likes eggplants, although he likes cabbage too.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Any woman contributed to the fund.,Any woman contributed to the fund.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Linda winked.,Linda winked.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I like Anson,I like Anson.,1,0.0833333333333333,2.564938280610033,1.6015424691871374,0.2761489103048618
+The builders destroyed at the warehouse.,The builders destroyed the warehouse.,0,0.075,2.662575424013133,1.6317399989009074,0.2864820496444443
+Which textbook did the teacher use in the class last summer?,Which textbook did the teacher use in the class last summer?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Fruit dropped from the tree.,Fruit dropped from the tree.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The monkeys kept forgetting their lines.,The monkeys kept forgetting their lines.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He liked Anson.,He liked Anson.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"That piano, which the boy's playing loudly drove everyone crazy, was badly out of tune.","That piano, which the boy was playing loudly drove everyone crazy, was badly out of tune.",0,0.0344827586206896,3.4011693487488466,1.8442259483991776,0.35919153762842
+Joe is taller than I think Mary.,Joe is taller than I think Mary.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Aphrodite quickly freed the animals,Aphrodite quickly freed the animals.,1,0.0285714285714285,3.5834849112903453,1.8930094852615889,0.3758845283682251
+The fish scrubbed.,The fish scrubbed.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Sharon shivered.,Sharon shivered.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John talked to Bill about the exam.,John talked to Bill about the exam.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That was why she looked so nice.,That was why she looked so nice.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jean seems to be in a good mood.,Jean seems to be in a good mood.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sarah devoured the cakes in the kitchen last night.,Sarah devoured the cakes in the kitchen last night.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The tornadoes that tear through this county every spring is more than just a nuisance.,The tornadoes that tear through this county every spring are more than just a nuisance.,0,0.0348837209302325,3.3899963810999125,1.8411942811935715,0.3581541468231554
+How was the plot discovered by the authorities?,How was the plot discovered by the authorities?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Gilgamesh is fighting the dragon.,Gilgamesh is fighting the dragon.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The cat that the dog that the rat bit chased died.,The cat that the dog that the rat bit died.,0,0.14,2.0971348531402016,1.4481487676133975,0.2236598985479495
+The person who ate too much rich food didn't he was Dr.,The person who ate too much rich food didn't he?,0,0.1454545454545454,2.0636871827508214,1.4365539261548177,0.2196923186317274
+Here's a razor for you to chop up these nuts with this cleaver and.,Here's a razor for you to chop up these nuts with this cleaver.,0,0.0597014925373134,2.8763697097232312,1.695986353047462,0.3084661833053441
+Susan whispered Rachel the news.,Susan whispered Rachel the news.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+He will not endorse the treaty; and indeed.,"He will not endorse the treaty, indeed.",1,0.1162790697674418,2.2617553943437025,1.5039133599857748,0.2427417012205712
+There seemed to be three men in the garden.,There seemed to be three men in the garden.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I can well imagine if he eats more, him getting fat.","I can well imagine if he eats more, he gets fatter.",0,0.173076923076923,1.9136443615346583,1.383345351506506,0.2014851466837893
+This is the dog that chased the cat that caught the rat that ate the cheese.,This is the dog that chased the cat that caught the rat that ate the cheese.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John studied carefully Russian.,John studied carefully Russian.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"The students of English from Seoul faced many issues in the process of interpreting, transcribing, and editing the poems.","The students of English from Seoul faced many issues in the process of interpreting, transcribing, and editing the poems.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The children are seen in the yard.,The children are seen in the yard.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jack disappeared in a mysterious manner and Marion disappeared in one too.,Jack disappeared in a mysterious manner and Marion disappeared in one too.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I claimed she was pregnant,I claimed she was pregnant.,1,0.0384615384615384,3.295811829304822,1.8154370904288648,0.3493404245190241
+People were playing on the beach.,People playing on the beach.,1,0.1515151515151515,2.028142515734741,1.4241286865079086,0.2154405889764811
+the boy likes himself.,the boy likes himself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Never is any lion majestic.,Never was any lion majestic.,1,0.074074074074074,2.6741360805517025,1.6352785941703336,0.287692903589517
+I ordered John to drink his beer.,I ordered John to drink his beer.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Linda winked his eye.,Linda winked his eye.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"While Doc might claim that Bob had read his book, he won't the paper.","While Doc might claim that Bob had read his book, he won't read the paper.",0,0.072463768115942,2.694614313297286,1.6415280421903506,0.2898313704706959
+There are three Davids in my class.,There are three Davids in my class.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Aphrodite stinks to be omnipotent.,Aphrodite stinks to be omnipotent.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The boat sank to collect the insurance.,The boat sank to collect the insurance.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+What the gentleman seemed to be asking is how policy would have differed.,What the gentleman seemed to be asking is how policy would have differed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The umpire called off it.,The umpire called it off.,0,0.24,1.6422243750503929,1.2814930257517567,0.1666328165740038
+Mary has never kissed as tall a man as John.,Mary has never kissed as tall a man as John.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who did you wonder what kissed?,Who did you wonder what kissed?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+They fed the meat to the lions raw.,They fed the meat to the lions raw.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The umpire fell the deck off.,The umpire fell off the deck.,0,0.2758620689655172,1.5314735297544355,1.2375271834406043,0.1515883682668271
+Paula spanked her right hand through the naughty child.,Paula spanked her right hand through the naughty child.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The sofa was longer than the desk was.,The sofa was longer than the desk was.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I lent Tony the book all the way.,I lent Tony the book all the way.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+For him to do that would be a mistake.,For him to do that would be a mistake.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I remember John being discussed, but you recall Sally being.","I remember John being discussed, but you recall Sally being.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Tom will not leave.,Tom will not leave.,1,0.0,13.815511557963774,3.716922323369668,1.0
+A statue of Jefferson stood on the comer.,A statue of Jefferson stood on the comer.,1,0.0,13.815511557963774,3.716922323369668,1.0
+How slowly would you say he was driving?,How slowly would you say he was driving?,1,0.0,13.815511557963774,3.716922323369668,1.0
+I forwarded Winifred the letter.,I forwarded Winifred the letter.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"In the book, he talks about his ups and downs at school.","In the book, he talks about his ups and downs at school.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary considers John proud of himself.,Mary considers John proud of himself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The door has a fresh coat of paint.,The door has a fresh coat of paint.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I put the book in the box.,I put the book in the box.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary should buy some flowers some bread.,Mary should buy some flowers and some bread.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Medea tried her to leave.,Medea tried to leave.,0,0.16,1.9809960809547085,1.4074786253988756,0.2097431891201694
+Jason intended for him to learn magic.,Jason intended for him to learn magic.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Evidence that he was drunk will be presented.,Evidence that he was drunk will be presented.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"José is eating cabbage, and Holly is too.","José is eating cabbage, and Holly is too.",1,0.0,13.815511557963774,3.716922323369668,1.0
+"Then, John left.","Then, John left.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I'm sorry that he ever said anything.,I'm sorry that he ever said anything.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John will have been eating cake.,John will have been eating cake.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I know which guys you've dated, but I don't know which guys you haven't.","I know which guys you've dated, but I don't know which guys you haven't.",1,0.0,13.815511557963774,3.716922323369668,1.0
+She did with her father away.,She did with her father away.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The students looked the high stairs up.,The students looked up at the high stairs.,0,0.2307692307692307,1.673972912747397,1.293821051284681,0.1708512810252714
+We proclaimed sincerely to the public John to be a hero.,We proclaimed sincerely to the public John to be a hero.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"John will endorse the treaty, but Georges will not endorse the treaty.","John will endorse the treaty, but Georges will not endorse the treaty.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The sign warned against skating on the pond.,The sign warned against skating on the pond.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Cynthia devoured at the pizza .,Cynthia devoured the pizza.,0,0.1290322580645161,2.169046836113448,1.4727684258271725,0.2320843743652488
+John seems that is nice.,John seems that is nice.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Fabio asked if had Claus run a marathon.,Fabio asked if Claus had run a marathon.,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+"You should always lock your door, no matter how fancy the hotel might be.","You should always lock your door, no matter how fancy the hotel might be.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Every man who has any matches is happy. happy.,Every man who has any matches is happy.,1,0.1521739130434782,2.0243760610139803,1.4228057003730272,0.2149878830695529
+I have never been spoken to so rudely!,I have never been spoken to so rudely!,1,0.0,13.815511557963774,3.716922323369668,1.0
+Erika made her mother an omelet and the kitchen a mess.,Erika made her mother an omelet and the kitchen a mess.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John ate.,John ate.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The children were undisciplined.,The children were undisciplined.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I saw people playing there on the beach.,I saw people playing on the beach.,1,0.15,2.036876130181435,1.4271916935651758,0.2164887038064314
+They expected us to do leave him.,They expected us to leave him.,0,0.0909090909090909,2.484896566514746,1.576355469592676,0.2675302988216551
+It appears that Poseidon owns a dragon,It appears that Poseidon owns a dragon,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Which folks up at corporate headquarters do you think that the sooner you solve this problem, the quicker you'll be able to tell t to buzz off?","Which folks at corporate headquarters do you think that the sooner you solve this problem, the quicker you'll be able to tell them to buzz off?",0,0.0419580419580419,3.212163963399163,1.7922510882683718,0.3414065241860116
+John bit the apple.,John bit the apple.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It seems that John is likely to win.,It seems that John is likely to win.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who remembers where we bought what?,Who remembers where we bought what?,1,0.0,13.815511557963774,3.716922323369668,1.0
+I visited every town in every country I had to.,I visited every town in every country I had to.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+He made a statement everyone thought was interesting and important.,He made a statement everyone thought was interesting and important.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What she considers is John proud of his work.,What she considers is John proud of his work.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+He remained a good friend to me.,He remained a good friend to me.,1,0.0,13.815511557963774,3.716922323369668,1.0
+A critic thinks that every book is readable.,A critic thinks that every book is readable.,1,0.0,13.815511557963774,3.716922323369668,1.0
+You are not fitted by the coat.,You are not fitted with the coat.,0,0.1290322580645161,2.169046836113448,1.4727684258271725,0.2320843743652488
+Sarah sang.,Sarah sang.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Martha carves.,Martha Carves.,1,0.0714285714285714,2.708037134533107,1.6456114773946815,0.291228660426214
+The square remained with a crowd of people.,The square remained with a crowd of people.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"Ron wanted to be wearing a tuxedo to the party, but Caspar didn't know whether to be.","Ron wanted to be wearing a tuxedo to the party, but Caspar didn't know whether to be.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The Canadian bought himself a barbecue.,The Canadian bought himself a barbecue.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The student knew the answers.,The student knew the answers.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I have wanted to know for many years exactly what happened to Rosa.,I have wanted to know for many years exactly what happened to Rosa.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mike expected Greg incorrectly to take out the trash.,Mike expected Greg to take out the trash.,1,0.2264150943396226,1.6894770188350066,1.2997988378341498,0.1728967894474314
+John loaded the truck with bricks.,John loaded the truck with bricks.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The fans got deliberately provoked by a rival group.,The fans got deliberately provoked by a rival group.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The tree was looked after by Kim.,The tree was looked after by Kim.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Nathan showed to Benjamin it.,Nathan showed Benjamin it.,0,0.1034482758620689,2.3671148537612616,1.5385430945414762,0.2545914742267932
+Amanda drove at the package.,Amanda drove the package.,0,0.1071428571428571,2.335366485752657,1.5281905920900891,0.2510490039864287
+Henry wanted to possibly marry Fanny.,Henry wanted to marry Fanny.,0,0.2432432432432432,1.6314135123977176,1.277267987697851,0.1651870722584965
+The cup knocked the stone apart.,The cup knocked the stone apart.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+They understand that you will prefer for the girl to put a picture on your desk.,They understand that you will prefer for the girl to put a picture on your desk.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The truck rumbled.,The truck rumbled.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sandy is either a lunatic or under the influence of drugs.,Sandy is either a lunatic or under the influence of drugs.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I was hunting game.,I was hunting a game.,1,0.1052631578947368,2.351366661970098,1.5334166628708903,0.2528372866071728
+Physicists like yourself are a godsend.,Physicists like yourself are a godsend.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The scenes to which the censors took objection had to do with the mixed marriage of a woman and a giant panda.,The scenes to which the censors took objection had to do with the mixed marriage of a woman and a giant panda.,1,0.0,13.815511557963774,3.716922323369668,1.0
+We're dancing the night away.,We're dancing the night away.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What the thing which I ate cost almost broke me.,What the thing I ate cost almost broke me.,1,0.125,2.197217466256713,1.4823014087076598,0.2353464173654419
+"No books survived the fire, did they?","No books survived the fire, did they?",1,0.0,13.815511557963774,3.716922323369668,1.0
+John seems certain about the bananas.,John seems certain about the bananas.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Golfers can be good company.,Golfers can be good company.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"They said that Tom would pay up, and pay up that he did is well-known.","They said that Tom would pay up, and that pay up that he did is well-known.",0,0.0714285714285714,2.708037134533107,1.6456114773946815,0.291228660426214
+I tried for to get them.,I tried to get them.,1,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+That Bill loves chocolate is likely.,That Bill loves chocolate is likely.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jason arrived by Medea.,Jason arrived by Medea.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The man who I gave John this picture of was bald.,The man I gave John this picture of was bald.,0,0.0816326530612244,2.5839862270351364,1.6074782197700648,0.2781800346531037
+Michael abandoned an old friend at Mardi Gras,Michael abandoned an old friend at Mardi Gras.,1,0.0222222222222222,3.828597375761956,1.956680192510252,0.3976716843404631
+The hotel where Gloria stays is being remodelled.,The hotel where Gloria stays is being renovated.,1,0.1020408163265306,2.3795372415851896,1.5425748738992184,0.2559710883304927
+He's a fool enough to try it.,He's a fool enough to try it.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+She's just enough tall.,She's just enough tall.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The reporters expected that the principal would fire some teacher.,The reporters expected that the principal would fire some teachers.,1,0.0151515151515151,4.204627606643012,2.050518862786444,0.4297818623780683
+Tom tried to ask a question.,Tom tried to ask a question.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I know I bought the book you recommended.,I know I bought the book you recommended.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The child became a man.,The child became a man.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Elizabeth regretted that she had met Wickham.,Elizabeth regretted that she had met Wickham.,1,0.0,13.815511557963774,3.716922323369668,1.0
+They lent a bicycle to me.,They lent me a bicycle.,1,0.3461538461538461,1.3581213381253452,1.1653846309804097,0.1269022746045231
+These expensive and illegal bottles of Absinthe are to be smuggled from Hungary.,These expensive and illegal bottles of Absinthe are to be smuggled from Hungary.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I stalked the woods for game.,I stalked the woods for game.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This girl in the red coat will put a picture of Bill on your desk after the dinner.,This girl in the red coat will put a picture of Bill on your desk after the dinner.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Kevin urged Anne to be loyal to her.,Kevin urged Anne to be loyal to her.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This movie just watches itself.,This movie just watches itself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Book is available in most countries.,Book is available in most countries.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Several people seem several people sick.,Several people seem to be sick.,1,0.3,1.4663345046961225,1.2109229970134858,0.1424848168183028
+Dracula thought him to be the Prince of Darkness.,Dracula thought him to be the Prince of Darkness.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sharon fainted at the sight of the accident.,Sharon fainted at the sight of the accident.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What happened was they knew his parents.,What happened was they knew his parents.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The jeweller decorated the ring.,The jeweller decorated the ring.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That photograph by Gomez of Pugsley of Lucy's,That photograph by Gomez of Pugsley of Lucy's.,1,0.0222222222222222,3.828597375761956,1.956680192510252,0.3976716843404631
+The streets gushed with water.,The streets gushed with water.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Which city and which conference did Bill go to to?,Which city and which conference did Bill go to?,0,0.06,2.8716639017520142,1.6945984485275605,0.307991263305923
+This girl in the red dress must put a picture of Bill on your desk.,This girl in the red dress must put a picture of Bill on her desk.,1,0.044776119402985,3.1498615774397,1.774784938362871,0.335429871048809
+The package weighed 10 lb.,The package weighed 10 lb.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The official to whom Smith loaned the money has been indicted.,The official to whom Smith loaned the money has been indicted.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The talkative and a bully man entered.,Talkative and a bully man entered.,0,0.1052631578947368,2.351366661970098,1.5334166628708903,0.2528372866071728
+Bill sent London a package.,Bill sent London a package.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"Mary claimed that eating cabbage, Holly started.","Mary claimed that eating cabbage, Holly started.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Who do you think Hobbs imagined Mary said Tom saw?,Who do you think Hobbs imagined Mary seeing Tom?,1,0.16,1.9809960809547085,1.4074786253988756,0.2097431891201694
+He figured something out.,He figured something out.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Was the child running to the car?,Was the child running to the car?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Over 120 different contaminants have been dumped into the river.,Over 120 different contaminants have been dumped into the river.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That chisel carves well.,That chisel carves well.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Susan doesn't eat her vegetables enough.,Susan doesn't eat her vegetables enough.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It may rain.,It may rain.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Chris became quite conservative and trying to change their minds.,Chris became quite conservative and trying to change their minds.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I pushed at the table.,I pushed it to the table.,1,0.1818181818181818,1.8717975230702044,1.3681365147784794,0.196280912079394
+We felled the murder with this chainsaw.,We felled the murder with this chainsaw.,1,0.0,13.815511557963774,3.716922323369668,1.0
+No one can forgive you that comment.,No one can forgive you for that comment.,1,0.1111111111111111,2.3025769930341404,1.5174244604045832,0.2473649960589889
+Time flies like an arrow.,Time flies like an arrow.,1,0.0,13.815511557963774,3.716922323369668,1.0
+They praised them as volunteers.,They praised them as volunteers.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He has will seeing his children.,He has seen his children.,0,0.21875,1.7176477461686943,1.310590609675155,0.1765895710494722
+You are taller than me.,You are taller than me.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The problem is easy to solve.,The problem is easy to solve.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Give a fresh coat of paint to the front door.,Give a fresh coat of paint to the front door.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"When Bill smokes, all the more does Susan hate him.","When Bill smokes, all the more does Susan hate him.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Stacy arrived at the palace.,Stacy arrived at the palace.,1,0.0,13.815511557963774,3.716922323369668,1.0
+We rummaged through the desk for papers.,We rummaged through the desk for papers.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Susanne gave the minivan to George.,Susanne gave the minivan to George.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Lydia eloped with Wickham yesterday.,Lydia eloped with Wickham yesterday.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That piece of ice is too big for it to be likely for him to be able to pick up with a teaspoon.,That piece of ice is too big for it to be likely for him to be able to pick up with a teaspoon.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The fact that I like strawberry flavored milk shakes is none of your business.,The fact that I like strawberry flavored milk shakes is none of your business.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John believes that he is sick.,John believes that he is sick.,1,0.0,13.815511557963774,3.716922323369668,1.0
+You give him enough opportunity and every senator will succumb to corruption.,You give him enough opportunity and every senator will succumb to corruption.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The moral destruction of the president was certainly not helpful.,The moral destruction of the president was certainly not helpful.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The senators be certain that the president is telling a lie.,The senators are certain that the president is telling a lie.,0,0.0333333333333333,3.4339581726766046,1.8530942158121928,0.3622261250184467
+John believes himself to be proud of Mary.,John believes himself to be proud of Mary.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What Mary did with Bill was sing a song.,What Mary did with Bill was sing a song.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Heather cabled the news at Sara.,Heather cabled the news to Sara.,0,0.0625,2.8331982853602424,1.6832107073567,0.304094549985431
+The clown amused the children with his antics.,The clown amused the children with his antics.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I destroyed there.,I destroyed it there.,0,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+At most three teachers assigned homework.,At most three teachers assigned homework.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I herded the cattle.,I herded the cattle.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The knife cut the bread.,The knife cut the bread.,1,0.0,13.815511557963774,3.716922323369668,1.0
+the person stood on my foot is heavy.,the person standing on my foot is heavy.,0,0.1351351351351351,2.1282251868286406,1.4588437842444408,0.2273195719760487
+Which student were you talking about?,Which student were you talking about?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The branches knocked against the wall.,The branches knocked against the wall.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Paul had three affairs . . .,Paul had three affairs.,1,0.1785714285714285,1.8870648975325484,1.3737048072757656,0.1981862978113855
+I claimed that she was pregnant,I claimed that she was pregnant.,1,0.032258064516129,3.465705872029748,1.8616406398738043,0.3651505824664851
+This is the box in which John put his gold.,This is the box in which John put his gold.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sarah sang a ballad.,Sarah sang a ballad.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sally eats pretty often the stuff.,Sally eats pretty often the stuff.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I explained that we should fix the sink.,I explained that we should fix the sink.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Every man who said he would buy some salmon did buy some salmon.,Every man who said he would buy some salmon did buy some salmon.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Harry says that Sally dislikes himself.,Harry says that Sally dislikes himself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Mary will complete her exam for an hour.,Mary will complete her exam in an hour.,0,0.075,2.662575424013133,1.6317399989009074,0.2864820496444443
+Gilgamesh misses Aphrodite,Gilgamesh misses Aphrodite,1,0.0,13.815511557963774,3.716922323369668,1.0
+I know the truth and that you are innocent.,I know the truth and that you are innocent.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Cynthia ate at the peach.,Cynthia ate the peach.,1,0.12,2.233584781065227,1.4945182438047475,0.2395268341261331
+He's so tall a man that doors are dangerous to him.,He's so tall a man that doors are dangerous to him.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"After Henry had done it, Webster touched a sword.","After Henry had done it, Webster touched a sword.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary thinks that John said that Susan likes pictures of himself?,Mary thinks that John said that Susan likes pictures of himself?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The books slid across the table.,The books slid across the table.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jeff has must eaten the deep fried muffin.,Jeff must have eaten the deep fried muffin.,0,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+They painted their house a hideous shade of green.,They painted their house a hideous shade of green.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I feel it is unfortunate that television is so vulgar these days.,I feel it is unfortunate that television is so vulgar these days.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Hardly any of the citizens ever say anything.,Hardly any of the citizens ever say anything.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Of Bill on, this girl in the red coat will put a picture of Bill on your desk before tomorrow.","With Bill on, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",0,0.0425531914893617,3.1986505770100155,1.7884771670362514,0.3401151452448287
+John tries to meet often Mary.,John tries to meet Mary often.,0,0.3333333333333333,1.3862921111241095,1.1774090670298534,0.1310168553121677
+I'm surprised that he ever said anything.,I'm surprised that he ever said anything.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John drove the car.,John drove the car.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The man who ordered ice cream said the pudding would be tasty.,The man who ordered the ice cream said the pudding would be tasty.,1,0.064516129032258,2.803345820420157,1.674319509657627,0.3010521161972658
+He's an as reliable man.,He's a reliable man.,0,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+The problem's knowledge is quite thorough.,The problem knowledge is quite thorough.,0,0.0476190476190476,3.091022408123812,1.7581303729029345,0.3297309298715362
+Jean is likely.,Jean is likely.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+There tried to be intelligent.,They tried to be intelligent.,0,0.0666666666666666,2.772574659851841,1.665104999647722,0.2978990498113452
+Carol cut her thumb.,Carol cut her thumb.,1,0.0,13.815511557963774,3.716922323369668,1.0
+In which box did he put the book?,In which box did he put the book?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The teacher handed the student.,The teacher handed the student.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"Two inspectors from the INS appeared, arrived, remained, emerged.","Two inspectors from the INS appeared, arrived, remained, and emerged.",1,0.0615384615384615,2.8477968356379404,1.6875416544897317,0.3055765347908826
+Peter will decide that we should review the book.,Peter will decide that we should review the book.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"That piano, the boy's playing which loudly drove everyone crazy, was badly out of tune.","That piano, the boy's playing which loudly drove everyone crazy, was badly out of tune.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+They were wary of themselves and of each other.,They were wary of themselves and of each other.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Not until I was perhaps twenty-five was when I read them and enjoyed them.,Not until I was perhaps twenty-five was when I read them and enjoyed them.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+It is not true that that for Herschel to throw a fit would confuse the guards was obvious.,It is not true that for Herschel to throw a fit would confuse the guards was obvious.,1,0.0555555555555555,2.944421926696411,1.715931795467527,0.3152912129574275
+Aliza wriggled her tooth loose.,Aliza wriggled her teeth loose.,1,0.064516129032258,2.803345820420157,1.674319509657627,0.3010521161972658
+We believed it to be a fountain in the park.,We believed it to be a fountain in the park.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+She liked Moya's football.,She liked Moya's football.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Cohen proved that the continuum hypothesis was independent.,Cohen proved that the continuum hypothesis was independent.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John believes it to be raining.,John believes it to be raining.,1,0.0,13.815511557963774,3.716922323369668,1.0
+They have no went.,They have no going.,0,0.2222222222222222,1.7047444104300338,1.3056586117473563,0.1749019157248965
+Jane imagines Bill claims John believes Mary thinks Tom is honest.,Jane imagines Bill claims John believes Mary thinks Tom is honest.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Bill would be easy for it to become expensive for you to chat with in Moscow.,Bill would be easy for it to become expensive for you to chat with in Moscow.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+My nephew could write letters to his parents with a fountain pen with your help.,My nephew could write letters to his parents with a fountain pen with your help.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He began writing poems.,He began writing poems.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Martha carved beautiful toys out of this wood.,Martha carved beautiful toys out of this wood.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John put books in the box.,John put books in the box.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Handsome though I know several boys who are, I'm still going to marry Herman.","Handsome though I know several boys who are, I'm still going to marry Herman.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I have wanted to meet the man who spent so much money planning the assassination of Kennedy for many years.,I have wanted to meet the man who spent so much money planning the assassination of Kennedy for many years.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Susan hopes to sleep.,Susan hopes to sleep.,1,0.0,13.815511557963774,3.716922323369668,1.0
+No one suspects that he is a fool.,No one suspects that he is a fool.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The big man from New York loves bagels with cream cheese.,The big man from New York loves bagels with cream cheese.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I expected there to be a problem.,I expected there to be a problem.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It is likely that Tami will leave New York.,It is likely that Tami will leave New York.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The man kicked the ball.,The man kicked the ball.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Which article did Terry file without reading?,Which article did Terry file without reading?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The toilet leaked through the floor into the kitchen below.,The toilet leaked through the floor into the kitchen below.,1,0.0,13.815511557963774,3.716922323369668,1.0
+A cheerful welcome was beamed by Sandra.,A cheerful welcome was beamed by Sandra.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+This problem's analysis is made a lot easier when you understand differential equations.,This problem analysis is made a lot easier when you understand differential equations.,1,0.0227272727272727,3.806619468515591,1.951055988052519,0.3957471663786659
+Mike will sing if you will sing.,Mike will sing if you will sing.,1,0.0,13.815511557963774,3.716922323369668,1.0
+We associated their subsidiaries with our corporate office.,We associate their subsidiaries with our corporate office.,1,0.0169491525423728,4.094286547295382,2.023434344696013,0.4205139486769602
+I didn't eat any ice cream or Mary's cake.,I didn't eat any ice cream or Mary's cake.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The hat which I believed that Otto was wearing is red.,The hat which I believe that Otto was wearing is red.,1,0.0185185185185185,4.007280168508118,2.001819214741461,0.4131175771266834
+"I don't plan to lock the door, no matter how fancy this hotel.","I don't plan on locking the door, no matter how fancy this hotel is.",0,0.1290322580645161,2.169046836113448,1.4727684258271725,0.2320843743652488
+The man I think that chased Fido returned.,The man I think chased Fido returned.,0,0.119047619047619,2.24070218292786,1.4968975191802076,0.2403409862841042
+This girl in the red coat will eat her breakfast before tomorrow.,This girl in the red coat will eat her breakfast tomorrow.,1,0.1076923076923077,2.3307475870669383,1.5266786128936694,0.2505316275035428
+I doubt his sincerity.,I doubt his sincerity.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I will, if I can work on it.","I will, if I can work on it.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The therapist's analysis of Lucy's,Therapist's analysis of Lucy's.,0,0.1470588235294117,2.0541178055131577,1.433219384990713,0.2185512889246996
+Jessica sprayed water at me.,Jessica sprayed water on me.,1,0.0714285714285714,2.708037134533107,1.6456114773946815,0.291228660426214
+Sandy appears that Kim is happy.,Sandy appears that Kim is happy.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+You can rely on Ben.,You can rely on Ben.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What did Bill claim that he read?,What did Bill claim that he read?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Fred saw a spaceship in the linguistics lounge?,Fred saw a spaceship in the linguistics lounge?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Bill examined a book.,Bill examined a book.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The boy gave the book.,The boy gave the book.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I am anxious for you should arrive on time.,I am anxious for you to arrive on time.,0,0.1162790697674418,2.2617553943437025,1.5039133599857748,0.2427417012205712
+Bob gave Steve the syntax assignment.,Bob gave Steve the syntax assignment.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The baby chewed the biscuit.,The baby chewed the biscuit.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This girl in the red coat or you will put a picture of Bill on your desk before tomorrow.,This girl in the red coat or you will put a picture of Bill on your desk before tomorrow.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Bill is sick.,Bill is sick.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Emily showed Benjamin himself in the mirror.,Emily showed Benjamin in the mirror.,1,0.1818181818181818,1.8717975230702044,1.3681365147784794,0.196280912079394
+He put in the washing machine.,Put it in the washing machine.,1,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+It seemed to rain.,It seemed to rain.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I see stars.,I see stars.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I lifted the book onto the table.,I lifted the book onto the table.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"They can't stand each other, he and she.","They can't stand each other, he and she.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Both of the workers will wear carnations.,Both of the workers will wear a carnation.,1,0.073170731707317,2.6855646104946205,1.638769236498727,0.2888873487612187
+Lilly should buy salmon and Mary should too.,Lilly should buy salmon and Mary should too.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Marilyn Monroe is Norma Jeane Baker.,Marilyn Monroe is Norma Jeane Baker.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Every senator seems to become more corrupt, if he talks to more lobbyists.","Every senator seems to become more corrupt, if he talks to more lobbyists.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The window broke from hail stones.,The window broke from hail stones.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Steve tossed the softball.,Steve tossed the softball.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Have you always hated peanut butter?,Have you always hated peanut butter?,1,0.0,13.815511557963774,3.716922323369668,1.0
+I hunted the woods for game.,I hunted the woods for game.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+the road blocked with a stone.,the road blocked with stone.,0,0.0666666666666666,2.772574659851841,1.665104999647722,0.2978990498113452
+They gave the bicycle to me.,They gave me the bicycle.,1,0.3214285714285714,1.413690980958204,1.188987376282105,0.1349787781566624
+There stabbed an animal.,There stabbed an animal.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The magician appeared a rabbit out of his hat.,The magician appeared a rabbit out of his hat.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Anson became happy,Anson became happy.,1,0.0555555555555555,2.944421926696411,1.715931795467527,0.3152912129574275
+The sky cleared.,The sky cleared.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I explained how to fix the sink.,I explained how to fix the sink.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Wash me!,Wash me!,1,0.0,13.815511557963774,3.716922323369668,1.0
+Those Olympic hopefuls should practice diligently daily.,Olympic hopefuls should practice diligently daily.,1,0.1071428571428571,2.335366485752657,1.5281905920900891,0.2510490039864287
+Bill wriggled himself loose.,Bill wriggled himself loose.,1,0.0,13.815511557963774,3.716922323369668,1.0
+They made him president.,They made him president.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Smith envied Jones his good fortune.,Smith envied Jones his good fortune.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Bill recited his lines slowly.,Bill recited his lines slowly.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Maxwell isn't half the doctor that feared Marge would realize Tom had confessed that he knew Bill expected him to be.,Maxwell isn't half the doctor that feared Marge would realize Tom had confessed that he knew Bill expected him to be.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Carla was shoveling the walk.,Carla shoveled the walk.,1,0.2413793103448276,1.6376054521074666,1.2796895920915614,0.1660157087682619
+A programme about Euripides is on a Radio 4 tonight.,A programme about Euripides is on Radio 4 tonight.,1,0.0384615384615384,3.295811829304822,1.8154370904288648,0.3493404245190241
+Alan is thinking about that his students are eager to learn English.,Alan is thinking that his students are eager to learn English.,0,0.088235294117647,2.5122952096255,1.585022147992103,0.2704959054908586
+Bill married Kathy.,Bill married Kathy.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I hope to study in France.,I hope to study in France.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The ball lies in the box.,The ball lies in the box.,1,0.0,13.815511557963774,3.716922323369668,1.0
+There are two main characters in the novel.,There are two main characters in the novel.,1,0.0,13.815511557963774,3.716922323369668,1.0
+We consider the men all totally crazy.,We consider the men all totally crazy.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who did Kim work for and Sandy rely?,Who did Kim work for and Sandy work for?,0,0.1944444444444444,1.8152856610032824,1.347325373101569,0.1891596531949215
+The man who I read a statement about is sick.,The man I read a statement about is sick.,1,0.0888888888888888,2.505515605420942,1.5828820566994062,0.2697635985195112
+It is the best students he gives this book.,It is the best student he gives this book.,0,0.0232558139534883,3.784147612114984,1.9452885678261167,0.3937736421402855
+Why do you think he left?,Why do you think he left?,1,0.0,13.815511557963774,3.716922323369668,1.0
+"When you eat more, you want correspondingly less.","When you eat more, you want correspondingly less.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The cat was having eaten.,The cat was eating.,0,0.32,1.4170636523669975,1.1904048270932868,0.1354638084514506
+You might not believe me but you will Bob.,"You might not believe me, but you will Bob.",1,0.0238095238095238,3.761159093319247,1.9393707983052768,0.3917486706403654
+They want to are kind to her.,They want to be kind to her.,0,0.0689655172413793,2.7408264595137584,1.655544158128607,0.2946274740050755
+Goes John to school?,Goes John to school?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"This boy must not go to school, and his father must not go to school either.","This boy must not go to school, and his father must not go to school either.",1,0.0,13.815511557963774,3.716922323369668,1.0
+"He seems to become more corrupt, the more lobbyists any senator talks to.","He seems to become more corrupt, the more lobbyists any senator talks to.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I will go and bought some whiskey.,I will go and buy some whiskey.,0,0.1176470588235294,2.2512841933790617,1.5004280033973845,0.2415490647493983
+John intends to review the book.,John intends to review the book.,1,0.0,13.815511557963774,3.716922323369668,1.0
+the person stand on my foot is heavy.,the person standing on my foot is heavy.,0,0.081081081081081,2.59025575718812,1.6094271518736474,0.2788469298322986
+I gave a gun to my brother which I had cleaned.,I gave a gun to my brother which I had cleaned.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Whether they say it or not, most teachers expect their students to study hard.","Whether they say it or not, most teachers expect their students to study hard.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Kim regrets not having seen the movie.,Kim regrets not having seen the movie.,1,0.0,13.815511557963774,3.716922323369668,1.0
+You can rely on that he will help you.,You can rely on him to help you.,0,0.2631578947368421,1.5686129095874186,1.252442776971235,0.1566922594706926
+Free enterprise is compatible with American values and traditions.,Free enterprise is compatible with American values and traditions.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The perception of the problem is quite thorough.,The perception of the problem is quite thorough.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He muttered that the visitors will leave.,He muttered that the visitors would leave.,1,0.073170731707317,2.6855646104946205,1.638769236498727,0.2888873487612187
+What causes students to select particular majors?,What causes students to select particular majors?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary appreciates only John and herself.,Mary appreciates only John and herself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The heat soared the temperature.,The heat soared the temperature.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I'll work on it if Same will be too.,I'll work on it if that's the case too.,1,0.3333333333333333,1.3862921111241095,1.1774090670298534,0.1310168553121677
+Martha carved the baby a toy.,Martha carved the baby a toy.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Any doctor will tell you that.,Any doctor will tell you that.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Would each the men have been working?,Would each of the men have been working?,0,0.081081081081081,2.59025575718812,1.6094271518736474,0.2788469298322986
+Linda taped the label and the cover.,Linda taped the label and the cover.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+We ate at a really fancy restaurant.,We ate at a really fancy restaurant.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John perfectly shot the ball.,John perfectly shot the ball.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"Ann is going to send a picture of Chairman Mao to her teacher, as soon as she gets home.","Ann is going to send a picture of Chairman Mao to her teacher, as soon as she gets home.",1,0.0,13.815511557963774,3.716922323369668,1.0
+John seems will win.,John seems to win.,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+Gordie Gillespie still can give a piece of his mind to the umps.,Gordie Gillespie still can give a piece of his mind to the umps.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The students and Professor Swansong is meeting in the park.,The students and Professor Swansong meet in the park.,0,0.1016949152542373,2.3826188750744914,1.54357341097678,0.2563127726621577
+John said Heidi was obsessed with broccoli.,John said Heidi was obsessed with broccoli.,1,0.0,13.815511557963774,3.716922323369668,1.0
+There tried to be riots in Seoul.,There were riots in Seoul.,0,0.2727272727272727,1.5404421600011815,1.2411455031547194,0.1528265027147604
+"While Truman didn't visit me, he did you.","While Truman didn't visit me, he did you.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Which pictures of him did Earl see?,Which pictures of him did Earl see?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Briana showed Justin himself.,Briana showed Justin himself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It tries to be warm in September.,It tries to be warm in September.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The press conjectured that Smith would be the appointee.,The press conjectured that Smith would be the appointee.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John put his gold under the bathtub.,John put his gold under the bathtub.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I'm as much of a man as you are, my dear.","I'm as much of a man as you are, my dear.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Someone attended every seminar.,Someone attended every seminar.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Few writers meet any playwrights in Vienna.,Few writers meet any playwrights in Vienna.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Tami is likely to leave New York.,Tami is likely to leave New York.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Susan bought her birthday some flowers.,Susan bought her birthday flowers.,0,0.1282051282051282,2.174744807877824,1.4747015996050945,0.2327458772830118
+Cynthia ate on the peach.,Cynthia ate on the peach.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"The money which I am discussing the claim that the company squandered amounts to $400,000.","The money which I am discussing the claim that the company squandered amounts to $400,000.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Not reading of Shakespeare satisfied me,Not reading Shakespeare satisfied me.,0,0.1025641025641025,2.374896911597536,1.541070054084997,0.2554561616802435
+We proclaimed John to the public to be a hero.,We proclaimed John to the public to be a hero.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Smith inscribed the ring with his name.,Smith inscribed the ring with his name.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Donna fixed me a sandwich.,Donna fixed me a sandwich.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John concluded Bill to be a fool.,John concluded Bill to be a fool.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Why did John leave?,Why did John leave?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The Mona Lisa sees easily.,The Mona Lisa sees easily.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"It is not entirely obvious whether, Mary listens to the Grateful Dead, she gets depressed.","It is not entirely obvious whether, Mary listens to the Grateful Dead, she gets depressed.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The convict escaped the police.,The convict escaped the police.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John offers many suggestions.,John offers many suggestions.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Alison poked Daisy in the ribs.,Alison poked Daisy in the ribs.,1,0.0,13.815511557963774,3.716922323369668,1.0
+$5 will buy a ticket.,$5 will buy a ticket.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The King of Rock and Roll's records led to dancing.,The King of Rock and Roll's records led to dancing.,1,0.0,13.815511557963774,3.716922323369668,1.0
+They tried to all like John.,They tried to be all like John.,1,0.1071428571428571,2.335366485752657,1.5281905920900891,0.2510490039864287
+It is eager to please John.,It is eager to please John.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+We placed the cheese in the refrigerator.,Place the cheese in the refrigerator.,1,0.1219512195121951,2.219196175392565,1.4896966722767977,0.2378769650505394
+Tamara poured water over the flowers.,Tamara poured water over the flowers.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"You get angrier, the more we eat, don't you.","You get angrier, the more we eat, don't you.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Does John have gone to the library?,Does John go to the library?,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+The clown amused the little children.,The clown amused the little children.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Jack is claiming that you won't need it.,Jack is claiming that you won't need it.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What did Frank buy for Jane.,What did Frank buy for Jane?,1,0.0357142857142857,3.367268795895242,1.835011933447639,0.3560386406440077
+Kelly adores French fabrics.,Kelly adores French fabrics.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John is taller than Pete is.,John is taller than Pete is.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The president could not approve the bill, could he?","The president could not approve the bill, could he?",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Tom offered advice to his students in his office.,Tom offered advice to his students in his office.,1,0.0,13.815511557963774,3.716922323369668,1.0
+A plan to negotiate an honorable end to the war in Vietnam was gotten wind of.,A plan to negotiate an honorable end to the war in Vietnam was gotten wind of.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"He seems to become more corrupt, as every senator talks to more lobbyists.","He seems to become more corrupt, as every senator talks to more lobbyists.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+There is believed to be a dragon in the wood.,There is believed to be a dragon in the wood.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Brian wiped the fingerprints from outside the cupboard.,Brian wiped the fingerprints from outside the cupboard.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sally eats the stuff more.,Sally eats the stuff more.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Megan loves.,Megan loves.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John put the book on the table with a pair of tongs.,John put the book on the table with a pair of tongs.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Burn letters to him!,Burn letters to him!,1,0.0,13.815511557963774,3.716922323369668,1.0
+All the students who the papers which they submitted were lousy I'm not going to allow to register next term.,"All the students who submitted the papers were poor, I'm not going to allow them to register next term.",1,0.3119266055045872,1.4364816620040035,1.198533129289301,0.1382451909016629
+This book cost $10.,This book costs $10.,1,0.0526315789473684,2.995714223734037,1.7308131683500787,0.3203833943715108
+This hat the gloves and were on the table.,"This hat, the gloves and was on the table.",0,0.0952380952380952,2.4423374484673905,1.5627979551008475,0.2628911217872968
+for John to hurt himself is stupid.,for John to hurt himself is stupid.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I put the book.,I put the book in.,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+Traci gave a lollipop.,Traci gave a lollipop.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Tabs are likely to be kept on participants.,Tabs are likely to be kept on participants.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I'm sure he speaks to me!,I'm sure he speaks to me!,1,0.0,13.815511557963774,3.716922323369668,1.0
+The Dodgers beat the Red Sox and the Giants beat the Dodgers.,The Dodgers beat the Red Sox and the Giants beat the Dodgers.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who do you think that you saw?,Who do you think you saw?,1,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+He tries to put everyone who he doesn't like on.,He tries to put everyone who he doesn't like on.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+There ran many people.,There were many people.,0,0.1818181818181818,1.8717975230702044,1.3681365147784794,0.196280912079394
+I bought a book about Harry,I bought a book about Harry.,1,0.037037037037037,3.332178474824947,1.8254255599243008,0.352758328170873
+Almost any lawyer could answer that question.,Almost any lawyer could answer that question.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I was wondering in which pocket it was that Kim had hidden the jewels.,I was wondering in which pocket it was that Kim had hidden the jewels.,1,0.0,13.815511557963774,3.716922323369668,1.0
+a pencil with that to write broke.,a pencil with which to write.,0,0.2941176470588235,1.4816019136569698,1.217210710459356,0.1446363775512297
+I lent the book halfway to Tony.,I loaned the book to Tony.,0,0.375,1.2992810447396126,1.139860098757568,0.1181681645453147
+John will leave the party earlier.,John left the party earlier.,1,0.2352941176470588,1.6582246361360455,1.2877207135617743,0.1687638374394288
+I want to peruse that contract before damaging it while filing it away.,I want to peruse that contract before damaging it while filing it away.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The presentation of a plaque was a proud moment.,The presentation of a plaque was a proud moment.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Susan sent the package to Heidi.,Susan sent the package to Heidi.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Racial inequality engenders conflict.,Racial inequality engenders conflict.,1,0.0,13.815511557963774,3.716922323369668,1.0
+George is having lived in Toledo for thirty years.,George has lived in Toledo for thirty years.,0,0.14,2.0971348531402016,1.4481487676133975,0.2236598985479495
+"John hummed, and Mary sang, the same tune.","John hummed, and Mary sang the same tune.",1,0.0238095238095238,3.761159093319247,1.9393707983052768,0.3917486706403654
+Ellen complained about the situation to Helen.,Ellen complained about the situation to Helen.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Tom, Dick, and Harry know it.","Tom, Dick, and Harry know it.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The students demonstrated this morning,The students demonstrated this morning.,1,0.0263157894736842,3.663524621210128,1.9140335998122209,0.3830786633588087
+I heard that John criticized myself.,I heard that John criticised me.,0,0.1388888888888889,2.1041278323445223,1.450561212891246,0.2244854009463711
+We walked slowly and with great care.,We walked slowly and with great care.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Did the magic work?,Did the magic work?,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The table is long, and the door's wide.","The table is long, and the door is wide.",1,0.0512820512820512,3.020406337553545,1.7379316262596596,0.3228192233336762
+John seems that it is likely to win.,John seems to be likely to win.,0,0.2222222222222222,1.7047444104300338,1.3056586117473563,0.1749019157248965
+On the table jumped a cat.,On the table jumped a cat.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Carmen obtained a spare part to Mary.,Carmen obtained a spare part for Mary.,0,0.054054054054054,2.9703969144583224,1.7234839466784488,0.3178754452279389
+How did Sheila marry tall a man?,How did Sheila marry a tall man?,0,0.125,2.197217466256713,1.4823014087076598,0.2353464173654419
+Mary considered he to have loved her.,Mary considered him to have loved her.,0,0.054054054054054,2.9703969144583224,1.7234839466784488,0.3178754452279389
+I ordered for John to drink his beer.,I ordered for John to drink his beer.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Can you find the light bulb store?,Can you find the light bulb store?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The child is impossible to teach him.,The child is impossible to teach him.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+They paid a lot of attention to the matter.,They paid a lot of attention to the matter.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What sofa will he put the chair between some table and?,What sofa will he put the chair between?,0,0.2727272727272727,1.5404421600011815,1.2411455031547194,0.1528265027147604
+John makes efforts for himself to be honest.,John makes efforts for himself to be honest.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It is easy to please John.,It is easy to please John.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"John drinks coffee at 11, and Mary, tea at 10:30.","John drinks coffee at 11, and Mary, tea at 10:30.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+They said that Tom would pay up and he will pay up.,They said that Tom would pay up and he will pay up.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The more that pictures of him appear in the news, the more likely John is to get arrested.","The more pictures of him appear in the news, the more likely John is to get arrested.",1,0.0555555555555555,2.944421926696411,1.715931795467527,0.3152912129574275
+"The richer he gets, the more John meets geniuses.","The richer he gets, the more John meets geniuses.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+There happened a serious accident yesterday.,There was a serious accident yesterday.,1,0.1590909090909091,1.985910060719208,1.4092232118153631,0.210340160286433
+Gilgamesh hasn't left,Gilgamesh hasn't left.,1,0.0476190476190476,3.091022408123812,1.7581303729029345,0.3297309298715362
+Five pounds is a lot of money.,Five pounds is a lot of money.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Tom keeps asking Karen's sister to buy the car.,Tom keeps asking Karen's sister to buy the car.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He treats John very shame.,He treats John very badly.,0,0.1923076923076923,1.8245449307738917,1.3507571694327192,0.1903339621536662
+Anson believed Jenny to have hurt himself.,Anson believed Jenny to have hurt himself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Any cat doesn't like mice.,Any cat doesn't like mice.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The dancing chorus line of elephants broke my television set.,The dancing chorus line of elephants broke my television set.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"While Truman doesn't want to visit every city, he does Barcelona.","While Truman doesn't want to visit every city, he does visit Barcelona.",1,0.0923076923076923,2.470910490031146,1.5719130033278388,0.2660101538508224
+"Sally might have eaten cabbage, but Holly shouldn't.","Sally might have eaten cabbage, but Holly shouldn't.",1,0.0,13.815511557963774,3.716922323369668,1.0
+We were wondering who did you meet at the conference.,We were wondering who did you meet at the conference?,1,0.0188679245283018,3.9889320294497246,1.997231090647681,0.4115475902430641
+The child clung to her mother.,The child clung to her mother.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Brian wiped the fingerprints from inside the cupboard.,Brian wiped the fingerprints from inside the cupboard.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I ate sugar.,I ate sugar.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I succeeded in convincing, even though John had failed to persuade, Mary not to leave.","I succeeded in convincing, even though John had failed to persuade Mary not to leave.",1,0.0116279069767441,4.46582311085763,2.113249419935477,0.4512473131621112
+Did Captain Wentworth write a letter to Anne Elliott?,Did Captain Wentworth write a letter to Anne Elliott?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Agamemnon seems to have left.,Agamemnon seems to have left.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Give the baby the bottle awake.,Give the baby the bottle.,0,0.1935483870967742,1.8191541146003367,1.3487602139002828,0.189650634081231
+Fruit hit the roof from the tree.,Fruit hit the roof of the tree.,1,0.0909090909090909,2.484896566514746,1.576355469592676,0.2675302988216551
+This conclusion to be arrived at is surprising.,This conclusion to be arrived at is surprising.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+If he sees one; he'll bring me a hot dog.,If he sees one he'll bring me a hot dog.,1,0.024390243902439,3.737629595313845,1.933295009902484,0.3896696274617026
+She mumbled her adoration.,She mumbled her adoration.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The hot potato had several hundred people yelling for me to put it down gently.,The hot potato had several hundred people yelling for me to put it down gently.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Alison and David soaked their feet in the kitchen,Alison and David soaked their feet in the kitchen.,1,0.0204081632653061,3.911974986628127,1.9778713271161312,0.4049229710755681
+Brown equipped a camera to Jones.,Brown equipped a camera for Jones.,0,0.0606060606060606,2.86218532392229,1.6917994337161513,0.3070334826419419
+Heather cabled Sara.,Heather Cabled Sara.,1,0.05,3.044503390303919,1.744850535233296,0.3251867696588272
+Home was gone by John.,Home was gone by John.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Kim beaten his dog and alienates cats.,Kim beat his dog and alienates cats.,0,0.0526315789473684,2.995714223734037,1.7308131683500787,0.3203833943715108
+Ann may spends her vacation in Italy.,Ann may spend her vacation in Italy.,0,0.027027027027027,3.637550134094605,1.9072362554478155,0.3807527146099449
+Tom says that it's going to rain but I don't believe it.,Tom says that it's going to rain but I don't believe it.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He impresses his friends all as pompous.,He impresses his friends all as pompous.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I presented a solution to the problem yesterday.,I presented a solution to the problem yesterday.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I wonder you ate how much.,I wonder how much you ate.,0,0.4615384615384615,1.1526780274843582,1.0736284401432177,0.0955046896306211
+"The more John eats, the tighter keep your mouth shut about it.","The more John eats, the tighter you keep your mouth shut about it.",0,0.064516129032258,2.803345820420157,1.674319509657627,0.3010521161972658
+John spoke to Mary French.,John spoke to Mary French.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Poseidon appears to have turned out to have left.,Poseidon appears to have turned out to have left.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Every student in Mary's class is working on negative polarity.,Every student in Mary's class is working on negative polarity.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Every poodle gives live birth.,Every poodle gives a live birth.,1,0.0666666666666666,2.772574659851841,1.665104999647722,0.2978990498113452
+Gilgamesh is not reading the cuneiform tablets.,Gilgamesh is not reading the cuneiform tablets.,1,0.0,13.815511557963774,3.716922323369668,1.0
+His girlfriend bought this computer.,His girlfriend bought this computer.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Know yourself!,Know yourself!,1,0.0,13.815511557963774,3.716922323369668,1.0
+I shaped a loaf from the dough.,I shaped a loaf from the dough.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The door has seven holes in it and the window.,The door has seven holes in it and the window.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+the bottle drained the liquid free.,the bottle drains the liquid free.,0,0.0571428571428571,2.917754178182901,1.70814348875699,0.3126261718357795
+"My father, that he's lived here all his life is well-known to the cops.","My father, that he's lived here all his life, is well-known to the cops.",1,0.0140845070422535,4.276596107647061,2.0679932561899377,0.4357613363159859
+Harriet told Emma the whole story.,Harriet told Emma the whole story.,1,0.0,13.815511557963774,3.716922323369668,1.0
+For me to concentrate on calculus is difficult.,For me to concentrate on calculus is difficult.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The ball rolled over the hill.,The ball rolled over the hill.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I was hunting in the woods.,I was hunting in the woods.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The money which I will have a chance to squander amounts to $400,000.","The money I will have a chance to squander amounts to $400,000.",1,0.0869565217391304,2.5257180643739567,1.5892507871239063,0.2719428820409242
+Who's there?,Who's there?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Advantage will be taken of his offer.,Advantage will be taken from his offer.,1,0.081081081081081,2.59025575718812,1.6094271518736474,0.2788469298322986
+John seems to be easy to fool Ben.,John seems to be easy to fool Ben.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"The more John meets geniuses, the angrier he gets.","The more John meets geniuses, the angrier he gets.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The ugly man from Brazil found books of poems in the puddle.,The ugly man from Brazil found books of poems in the puddle.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The house is been remodeling.,The house is being renovated.,0,0.3103448275862069,1.4403591233307391,1.2001496253929087,0.1387983314942478
+"One of the Jewish children is a spunky girl, who gave a black eye to the kid with the German roots before the start of the war.","One of the Jewish children is a spunky girl, who gave a black eye to the kid with the German roots before the start of the war.",1,0.0,13.815511557963774,3.716922323369668,1.0
+He replied that he was happy.,He replied that he was happy.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This building is taller and taller.,This building is taller and taller.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+He admires every man.,He admires every man.,1,0.0,13.815511557963774,3.716922323369668,1.0
+In the aquarium swam a striped fish.,In the aquarium swam a striped fish.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John seems know about the bananas.,John seems to know about the bananas.,0,0.088235294117647,2.5122952096255,1.585022147992103,0.2704959054908586
+I gave her so.,I gave her so.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The cook boned the fish.,Cook boned the fish.,1,0.2083333333333333,1.757853945149758,1.3258408445774168,0.1818079714848753
+John tries him to win.,John tries to win.,0,0.1818181818181818,1.8717975230702044,1.3681365147784794,0.196280912079394
+"Will Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.","Will Bill, this girl in the red coat, put a picture of Bill on your desk before tomorrow.",0,0.053763440860215,2.975511915388591,1.724967221540337,0.3183829995203618
+He was talkative and a bully.,He was talkative and a bully.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The harder it rains, the faster who runs?","The harder it rains, the faster the race.",0,0.1463414634146341,2.0583821715120623,1.434706301481966,0.2190600893277813
+"José asks that we go to the meeting, and Sally will tell us when.","José asks that we go to the meeting, and Sally will tell us when.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Doug cleared the table.,Doug cleared the table.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That dog bites.,That dog bites.,1,0.0,13.815511557963774,3.716922323369668,1.0
+$10 was cost by this book.,$10 is included in this book.,0,0.4230769230769231,1.2130209789147397,1.1013723162104354,0.1049982256893651
+The farmers raged a fire over the fields.,The farmers raged a fire over the fields.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Kiss himself.,Kiss himself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+My morning routine features swim free styles slowly for one hour.,My morning routine features swimming free styles for one hour.,0,0.1692307692307692,1.9328330136773024,1.3902636489807616,0.2038524837630725
+Anson put a book,Anson put a book in his mouth.,0,0.875,0.762139442523598,0.8730059808063161,0.0268547090981867
+This building got taller and taller.,This building got taller and taller.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Rory may be eating the muffins.,Rory may be eating the muffins.,1,0.0,13.815511557963774,3.716922323369668,1.0
+You and I are as little alike as a horse and a cow.,You and I are as little alike as a horse and a cow.,1,0.0,13.815511557963774,3.716922323369668,1.0
+To whom is she trying to make up now?,To whom is she trying to make up now?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The man who I gave John a picture of was bald.,The man I gave John a picture of was bald.,1,0.0869565217391304,2.5257180643739567,1.5892507871239063,0.2719428820409242
+They tried all to like John.,They tried to be like John.,0,0.1785714285714285,1.8870648975325484,1.3737048072757656,0.1981862978113855
+Ann may spending her vacation in Italy.,Ann may spend her vacation in Italy.,0,0.0769230769230769,2.6390452582707558,1.6245138529020784,0.2840093714418952
+Leigh threw Lane the ball.,Leigh threw Lane the ball.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The jeweller scribbled his name on the contract.,The jeweller scribbled his name on the contract.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I was not reading a book when you came in.,I was not reading a book when you came in.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The rats ran through the maze.,The rats ran through the maze.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Mary will believe Susan, and you will Bob.","Mary will believe Susan, and you will Bob.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I lifted him up the books.,I lifted him up from the books.,0,0.1923076923076923,1.8245449307738917,1.3507571694327192,0.1903339621536662
+I do not be happy.,I am not happy.,0,0.2777777777777778,1.5260534861099189,1.2353353739409874,0.150838364104896
+I took a snooze.,I took a snooze.,1,0.0,13.815511557963774,3.716922323369668,1.0
+My niece could write me you letters.,My niece could write me your letters.,0,0.0277777777777777,3.610882886264709,1.9002323242868773,0.3783560749742923
+"Sandy must, too.","Sandy must, too.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Lucy Barnes recounted a story to remember because remember Holly had recounted a story to.,Lucy Barnes recounted a story to remember because remember Holly had recounted a story to.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The paper is readable.,The paper is readable.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The rat devoured the cat.,The rat devoured the cat.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He always eats deep fried muffins.,He always eats deep fried muffins.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The students felt comfortable in the class.,The students felt comfortable in the class.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"His expectations are lower, the higher the stakes.","His expectations are lower, the higher the stakes.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I'm surprised we had any potatoes.,I'm surprised we had any potatoes.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Erin never keeps her pencils in the correct drawer.,Erin never keeps her pencils in the correct drawer.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John put his books in the attic.,John put his books in the attic.,1,0.0,13.815511557963774,3.716922323369668,1.0
+It wasn't as awful a picture as it first seemed.,It wasn't as awful a picture as it first seemed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Harry thinks so, although no one else thinks Sally is innocent.","Harry thinks so, although no one else thinks Sally is innocent.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Did that Medea killed her children upset Jason?,Did Medea kill her children to upset Jason?,0,0.2127659574468085,1.7404622994126129,1.319265818329503,0.1795580966432877
+The man standing over there's hat impressed me greatly.,The man standing over there hat impressed me greatly.,1,0.0363636363636363,3.3498775525645383,1.830267071376344,0.3544150203878305
+I'm glad I saw anybody.,I'm glad I saw anyone.,0,0.1304347826086956,2.159477467331088,1.4695160656934267,0.2309714657676566
+the boy likes themselves.,the boy likes themselves.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+She considers John proud of his work.,She considers John proud of his work.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"It is important the more you to eat, the more careful to be.","It is important the more you eat, the more careful you are.",0,0.1166666666666666,2.2587747944658028,1.502922085294445,0.24240250196797
+"I am confident of, and my boss depends on, a successful outing at the track.","I am confident of, and my boss depends on, a successful outing at the track.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The cake was have eaten.,The cake was eaten.,0,0.2083333333333333,1.757853945149758,1.3258408445774168,0.1818079714848753
+Poseidon appears to own a dragon,Poseidon appears to own a dragon,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The pigs grunts,The pig grunts.,0,0.1333333333333333,2.140059545876948,1.462894236052951,0.2287055755108516
+The box completely contains the ball.,The box contains the ball.,1,0.2972972972972973,1.47330314531185,1.2137969950992011,0.1434682556281286
+It was in the barn or it took place in the barn.,It was in the barn or it took place in the barn.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The curtain which Fred tore in rolling up was the kind gift of my maternal Aunt Priscilla.,The curtain Fred tore in rolling up was the kind gift of my maternal Aunt Priscilla.,1,0.0666666666666666,2.772574659851841,1.665104999647722,0.2978990498113452
+I sent the devil the salesman.,I sent the devil the salesman.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Gilgamesh must should seek Ishtar,Gilgamesh must seek Ishtar.,0,0.2424242424242424,1.6341272049107043,1.2783298498082194,0.1655504254615519
+John to love Mary would be doubtful.,John to love Mary would be doubtful.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+They heard that John criticized each other.,They heard that John criticized each other.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I've known more of a man than Frank.,I've known more of a man than Frank.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+A proof that the claim had been made was given that John had lied.,A proof that the claim had been made was given that John had lied.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Jessica loaded boxes at the truck.,Jessica loaded boxes in the truck.,0,0.0588235294117647,2.8903557024846616,1.7001046151589203,0.3098753905033494
+little equipment is available.,little equipment is available.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John kept behind the counter.,John kept behind the counter.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+People are seething in the square.,People are seeing in the square.,0,0.0588235294117647,2.8903557024846616,1.7001046151589203,0.3098753905033494
+John would prefer to finish the oatmeal.,John would prefer to finish the oatmeal.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Aunt Mary made the boys all a good mother.,Aunt Mary made the boys a good mother.,0,0.0952380952380952,2.4423374484673905,1.5627979551008475,0.2628911217872968
+This theorem will take only five minutes to prove.,This theorem will take only five minutes to prove.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Doing syntax is not easy.,Doing syntax is not easy.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Emma and Harriet were attacked by those bandits.,Emma and Harriet were attacked by those bandits.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The room reeked of onions.,The room reeks of onions.,1,0.0769230769230769,2.6390452582707558,1.6245138529020784,0.2840093714418952
+It surprised me that you came early.,It surprised me that you came early.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Student studies English for 4 hours a day.,Student studies English for 4 hours a day.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John perfectly learned French immediately.,John learned French immediately.,0,0.238095238095238,1.6486552332881832,1.2839997014361737,0.1674905631967155
+Pat handed to Chris.,Pat handed to Chris.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+For the girl to put a picture there would surprise you.,For the girl to put a picture there would surprise you.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I spoke to about the war yesterday that guy who's always following us.,"I spoke to about the war yesterday, that guy who's always following us.",0,0.0142857142857142,4.2626108654062085,2.0646091313869093,0.4346033398353572
+What the hell do you wonder how to say?,What the hell do you wonder how to say?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Heather snorted.,Heather snorted.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Under the bed wants to be a fun place to hide.,Under the bed wants to be a fun place to hide.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Sally's sick and what did you bring me?,Sally's sick and what did you bring me?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Frank gave a piano to Jane Fairfax.,Frank gave a piano to Jane Fairfax.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The more books I ask to whom he will give, the more he reads.","The more books I ask to whom I will give, the more he reads.",0,0.0327868852459016,3.4499580145502025,1.8574062599631247,0.3637016415084493
+They told Sue who to talk to and Virginia when to leave.,They told Sue who to talk to and Virginia when to leave.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Packages carry easily to New York.,Packages can be shipped to New York.,0,0.2941176470588235,1.4816019136569698,1.217210710459356,0.1446363775512297
+The man who Mary loves and Sally hates George computed my tax.,The man who Mary loves and Sally hates George computed my taxes.,0,0.032258064516129,3.465705872029748,1.8616406398738043,0.3651505824664851
+Dave left.,Dave left.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Any female tiger has orange fur, marked with black stripes.","Any female tiger has orange fur, marked with black stripes.",1,0.0,13.815511557963774,3.716922323369668,1.0
+What she thought was that the poison was neutralised,What she thought was that the poison was neutralised.,1,0.0192307692307692,3.970240896035669,1.9925463347274184,0.4099445374054695
+Lydia pocketed her pocket with the change.,Lydia pocketed her pocket with the change.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Maxwell isn't half the doctor that was here.,Maxwell isn't half the doctor that was here.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John wants to congratulate himself.,John wants to congratulate himself.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Caviar is eaten by Jack more than mush.,Caviar is eaten by Jack more than mush.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary solved the problem.,Mary solved the problem.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John saw the man with a telescope.,John saw the man with a telescope.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The day snowed,The day snowed.,0,0.0714285714285714,2.708037134533107,1.6456114773946815,0.291228660426214
+The hardest that it ever snowed was last January 12th.,The hardest it ever snowed was last January 12th.,1,0.0925925925925925,2.468089646783757,1.5710154826683782,0.2657030358142722
+Bill offered Mary everything he had cooked for dinner.,Bill offered Mary everything he had cooked for dinner.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The ball rolled.,The ball rolled.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John knows whose book Mary bought and Tom talked.,John knows whose book Mary bought and Tom talked about.,0,0.1224489795918367,2.2155664402797903,1.4884778937827026,0.2374599174270105
+I'll give to my good friend from Akron some.,I'll give some to my good friend from Akron.,0,0.2272727272727272,1.6863953683943915,1.2986128631714655,0.1724909668003841
+He replied his answer.,He replied with his answer.,0,0.2272727272727272,1.6863953683943915,1.2986128631714655,0.1724909668003841
+The fish boned.,Fish boned.,0,0.3333333333333333,1.3862921111241095,1.1774090670298534,0.1310168553121677
+Mary believes that Bill saw herself.,Mary believes that Bill saw herself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John promised Mary to control herself.,John promised Mary to control herself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+John to fix the computer.,John to fix the computer.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+He walked right the wall.,He walked right to the wall.,1,0.12,2.233584781065227,1.4945182438047475,0.2395268341261331
+"This is the problem that you'll beat the competition more easily, the sooner you solve.","This is the problem that you'll beat the competition more easily, the sooner you solve it.",0,0.0344827586206896,3.4011693487488466,1.8442259483991776,0.35919153762842
+The man on whose lap the puppet is sitting is ventriloquist.,The man in whose lap the puppet is sitting is ventriloquist.,1,0.0166666666666666,4.110814849579313,2.027514451139452,0.4219100995806933
+One of the most serious problems that some students have be lack of motivation.,One of the most serious problems that some students have is lack of motivation.,1,0.0253164556962025,3.701263450200764,1.9238667963767044,0.3864434349549431
+Man the ball kicked the.,Man the ball kicked the.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I am delighted at the idea they might demolish the Appleton Tower.,I am delighted at the idea that they might demolish the Appleton Tower.,1,0.0757575757575757,2.653229694271367,1.6288737502554846,0.2855012625762379
+The Romans destroyed the city into ruins.,The Romans destroyed the city into ruins.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+and index values of the subject and the main verb.,and index values of the subject and the main verb.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John eats so much.,John eats so much.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I didn't eat the cake or any ice cream.,I didn't eat the cake or any ice cream.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"The more pictures of him appear in the news, the more likely John is to get arrested.","The more pictures of him appear in the news, the more likely John is to get arrested.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I believe she is pregnant,I believe she is pregnant.,1,0.04,3.258072499871976,1.8050131578113155,0.3457735119528468
+the student who everyone likes left.,the student who everyone likes left.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The student met the senator for John to meet Bill.,The student met the senator for John to meet Bill.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I admired his honesty.,I admired his honesty.,1,0.0,13.815511557963774,3.716922323369668,1.0
+She asked a man who was near the window whether it looked like rain.,She asked a man near the window whether it looked like rain.,1,0.1176470588235294,2.2512841933790617,1.5004280033973845,0.2415490647493983
+The witch went into the forest by vanishing.,The witch went into the forest by vanishing.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Every town in every country I had to I visited.,Every town in every country I had to visit.,1,0.0851063829787234,2.5455204432416685,1.5954687221132442,0.2740705656381687
+My eyes are itching my brother.,"My eyes are itching, my brother.",0,0.032258064516129,3.465705872029748,1.8616406398738043,0.3651505824664851
+"Before your, this girl in the red coat will put a picture of Bill on your desk before tomorrow.","Before you know it, this girl in the red coat will put a picture of Bill on your desk before tomorrow.",0,0.0842105263157894,2.555276493949979,1.598523222837247,0.2751157697291373
+What Julie became was fond of Lloyd.,Julie became fond of Lloyd.,1,0.25,1.6094347124417805,1.2686349799850942,0.1622329871905736
+Mary is faster than John is.,Mary is faster than John is.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The cake was been eating.,The cake was eaten.,0,0.28,1.5198229635719145,1.2328110007506885,0.1499745616625204
+We believe that the directors were present.,We believe that the directors were present.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The stone carved.,Stone carving.,0,0.4705882352941176,1.1394328381903915,1.0674421943086152,0.0933878495843074
+The plumber who the nurse polished her trombone and computed my tax was a hefty fellow.,The plumber who the nurse polished her trombone and computed my tax was a hefty fellow.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"The book, including all the chapters in the first section, are very interesting.","The book, including all the chapters in the first section, are very interesting.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+How do you think John bought the sweater?,How do you think John bought the sweater?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The more pictures of John that he buys the more arrogant he becomes.,The more pictures of John that he buys the more arrogant he becomes.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Do you know the boy whom Mary saw?,Do you know the boy Mary saw?,1,0.1470588235294117,2.0541178055131577,1.433219384990713,0.2185512889246996
+The banana is being eaten by that monkey.,The banana is being eaten by that monkey.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He skated Penny around the rink.,He skated Penny around the rink.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Waldo didn't report the possibility that anyone had left.,Waldo didn't report the possibility that anyone had left.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I love but you hate ice milk tea.,I love but you hate ice milk tea.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John seems to be a fountain in the park.,John seems to be a fountain in the park.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Who do you think that will question Seamus first?,Who do you think will question Seamus first?,0,0.1020408163265306,2.3795372415851896,1.5425748738992184,0.2559710883304927
+The wagon rumbled down the road.,The wagon rumbled down the road.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Amanda carried the package to New York.,Amanda carried the package to New York.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Calvin has not any catnip.,Calvin has not added any catnip.,0,0.2307692307692307,1.673972912747397,1.293821051284681,0.1708512810252714
+John believed Kim to leaving here.,John believed Kim to be leaving here.,0,0.088235294117647,2.5122952096255,1.585022147992103,0.2704959054908586
+He kicked him,He kicked him.,1,0.0769230769230769,2.6390452582707558,1.6245138529020784,0.2840093714418952
+This truck spread less salt than that one.,This truck spreads less salt than that one.,1,0.0238095238095238,3.761159093319247,1.9393707983052768,0.3917486706403654
+Her stepmother always clad her in black.,Her stepmother always clad her in black.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The Joneses think himself the most wealthy guy on the block.,The Joneses think he is the most wealthy guy on the block.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Lucy recounted a story to remember because Holly had recounted as story not to.,Lucy recounted a story to remember because Holly had recounted a story not to.,1,0.0126582278481012,4.38194862529373,2.0933104464684,0.4444244970881989
+The time bomb had a snake behind the car which it was sitting in.,The time bomb had a snake behind the car which it was sitting in.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Kim jogs under the hill.,Kim jogs under the hill.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The box contained the ball to the ground.,The box contained the ball to the ground.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+He believed there to be likely that he won the game.,He believed there was likely a chance that he won the game.,0,0.2692307692307692,1.5505944860108285,1.245228688237959,0.1542237070826124
+"It is important for the more you eat, the more careful to be.","It is important that the more you eat, the more careful you are.",0,0.1311475409836065,2.1546582220040738,1.467875410926988,0.2304100584449235
+Bill gave Sue the book.,Bill gave Sue the book.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What I know the boy who was wearing is this hat.,What I know the boy who was wearing is this hat.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+What you heard was an explosion.,What you heard was an explosion.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He's such a tall man.,He's such a tall man.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary noticed John's excessive appreciation of herself.,Mary noticed John's excessive appreciation of herself.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The sun bloomed the roses.,The sun bloomed the roses.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Mary loves him.,Mary loves him.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Maisie drove her car from Morningside to Leith on Wednesday.,Maisie drove her car from Morningside to Leith on Wednesday.,1,0.0,13.815511557963774,3.716922323369668,1.0
+the branch dropped its apple free.,the branch dropped its apple free.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Which goddess did help us?,Which goddess helped us?,1,0.2307692307692307,1.673972912747397,1.293821051284681,0.1708512810252714
+Frank hopes to persuade Harry to make the cook wash the dishes.,Frank hopes to persuade Harry to make the cook wash the dishes.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Where did you send the bicycle? To Rome.,Where did you send the bicycle? To Rome.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Half the doctor that Maxwell's father was sat down.,Half the doctor Maxwell's father sat down.,0,0.1764705882352941,1.8971151682349088,1.3773580392312337,0.1994363787018914
+They want to write to her.,They want to write to her.,1,0.0,13.815511557963774,3.716922323369668,1.0
+much furniture is needed.,much furniture is needed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I'm going out, wherever that hurricane might be.","I'm going out, wherever that hurricane might be.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Anson thought Julie had fainted,Anson thought Julie had fainted.,1,0.032258064516129,3.465705872029748,1.8616406398738043,0.3651505824664851
+Doug cleared the dishes from under the rack.,Doug cleared the dishes from under the rack.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"We had hoped to get three new equipments every month, but we only had enough money to get an equipment every two weeks.","We had hoped to get three new equipment every month, but we only had enough money to get an equipment every two weeks.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+It rained.,It rained.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Jerry wouldn't read a book by Babel, but Meryl has done so and it was pretty good.","Jerry wouldn't read a book by Babel, but Meryl has done so and it was pretty good.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Bill's mother's friends and John are waiting at the restaurant.,Bill's mother's friends and John are waiting at the restaurant.,1,0.0,13.815511557963774,3.716922323369668,1.0
+They are special.,They are special.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That Captain Wentworth married Anne astonished her father.,Captain Wentworth married Anne astonished her father.,1,0.0862068965517241,2.533686134659209,1.5917556768107373,0.2728000175221919
+I met the critic whose remarks I wanted to object to.,I met the critic whose remarks I wanted to object to.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Cynthia lunched peaches.,Cynthia ate peaches.,0,0.25,1.6094347124417805,1.2686349799850942,0.1622329871905736
+The door hit.,The door hit.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I polished the vase which was from India up.,I polished the vase which was from India.,0,0.0681818181818181,2.751521582652612,1.658771106166433,0.295731686966616
+Which language do you want to hire someone who speaks?,Which language do you want to hire someone who speaks?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Bill urinated out the window.,Bill urinated out the window.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"How much harder has it rained, the faster a flow you see in the river?","How much harder it has rained, the faster a flow you see in the river?",1,0.0857142857142857,2.538963125511872,1.5934124153877651,0.2733669284823916
+Cassandra has warned Agamemnon again.,Cassandra has warned Agamemnon again.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who is Kim eager to recommend?,Who is Kim eager to recommend?,1,0.0,13.815511557963774,3.716922323369668,1.0
+"John will study syntax, and Mary, too.","John will study syntax, and Mary, too.",1,0.0,13.815511557963774,3.716922323369668,1.0
+The ball lies completely in the box.,The ball lies completely in the box.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Did you believe him to ever have made an effort to talk to the student?,Did you believe him to ever have made an effort to talk to the student?,1,0.0,13.815511557963774,3.716922323369668,1.0
+In which box did John put the book?,In which box did John put the book?,1,0.0,13.815511557963774,3.716922323369668,1.0
+This girl in the red coat will put a picture of Bill it on your desk before tomorrow.,This girl in the red coat will put a picture of Bill on your desk before tomorrow.,0,0.0465116279069767,3.113494764996595,1.7645097803629752,0.3319138669135192
+Make yourself comfortable.,Make yourself comfortable.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John tries to meet not Mary.,John tries to meet Mary.,0,0.1428571428571428,2.079435416703953,1.4420247628608716,0.2215643564614303
+The analysis of Lucy took longer than that of Gomez.,The analysis of Lucy took longer than that of Gomez.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The fact that no candidate was elected shows that he was inadequate.,The fact that no candidate was elected shows that he was inadequate.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+A book was handed to Chris.,A book was handed to Chris.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I never met that man who anybody tried to kill.,I never met that man whom anybody tried to kill.,0,0.0212765957446808,3.871154991178544,1.9675250928967956,0.4013826457296971
+$50 won't even purchase a dress at Bloomingdale's.,$50 won't even buy a dress at Bloomingdale's.,1,0.14,2.0971348531402016,1.4481487676133975,0.2236598985479495
+The luscious chick who Billy went to the movies with will wed me ere the morn.,The luscious chick Billy went to the movies with will wed me ere the morn.,1,0.0512820512820512,3.020406337553545,1.7379316262596596,0.3228192233336762
+I'll work on it if you do.,I'll work on it if you do.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The experts attributed Raphael this picture.,The experts attributed Raphael this picture.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+"Me, I like beer.","Me, I like beer.",1,0.0,13.815511557963774,3.716922323369668,1.0
+I showed few boys any of the books.,I showed a few boys any of the books.,1,0.0571428571428571,2.917754178182901,1.70814348875699,0.3126261718357795
+The swindler cheated Pat of her fortune.,The swindler cheated Pat of her fortune.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"They play unusual music, and I listen to unusual music.","They play unusual music, and I listen to unusual music.",1,0.0,13.815511557963774,3.716922323369668,1.0
+It is put a picture of Bill on your desk before tomorrow that this girl in the red coat will.,Put a picture of Bill on your desk before tomorrow that this girl in the red coat will.,0,0.075268817204301,2.659247681306314,1.6307199886265926,0.2861330175086304
+The motor that Martha thinks that Joe replaced costs thirty dollars.,The motor that Martha thinks Joe replaced costs thirty dollars.,1,0.0735294117647058,2.6810088603131854,1.6373786551415606,0.2884115127884479
+Everyone hopes him to sleep.,Everyone hopes he will sleep.,0,0.2142857142857142,1.7345972122614013,1.3170410822223433,0.178796825492734
+"Stories about him seem to show up more on the evening news, the more that John gets upset by them.","Stories about him seem to show up more on the evening news, the more that John gets upset by them.",1,0.0,13.815511557963774,3.716922323369668,1.0
+A proof was given that the claim that John had lied had been made.,A proof was given that the claim that John had lied had been made.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Do you think that he sometimes went there alone?,Do you think that he sometimes went there alone?,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who do you think that Bill likes?,Who do you think Bill likes?,1,0.1515151515151515,2.028142515734741,1.4241286865079086,0.2154405889764811
+"They said that Tom would pay up, and pay up it is well-known that he did.","They said that Tom would pay up, and it is well-known that he did.",1,0.0958904109589041,2.436106969601101,1.5608033090691156,0.2622085839911792
+John is more than 6 feet tall.,John is more than 6 feet tall.,1,0.0,13.815511557963774,3.716922323369668,1.0
+There run many people.,There are many people.,0,0.1363636363636363,2.1202570828932594,1.4561102578078555,0.2263842004464766
+I've never seen a taller man than my mother.,I've never seen a taller man than my mother.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"It is important for the more you eat, the more careful you to be.","It is important that the more you eat, the more careful you are.",0,0.123076923076923,2.2110106649121253,1.4869467592728818,0.2369359862847088
+We rich have impeccable taste.,We have impeccable taste.,1,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+John was unknown.,John was unknown.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John gave a present to the student and Mary did the same thing to the teacher.,John gave a present to the student and Mary did the same thing to the teacher.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Gas escaped the tube.,Gas escaped the tube.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Robert knows that it is essential to be well behaved.,Robert knows that it is essential to be well behaved.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Toothbrush the is blue.,Toothbrush is blue.,0,0.1739130434782608,1.9095376067524588,1.381860197976792,0.2009769495395636
+John wagered a stranger to have been in that haunted house.,John wagered a stranger to have been in that haunted house.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The assignment completed.,Assignment completed.,0,0.2,1.7917553025735409,1.3385646426577764,0.1861618633342842
+These are similar to the bottles.,These are similar to the bottles.,1,0.0,13.815511557963774,3.716922323369668,1.0
+This knife doesn't cut.,This knife doesn't cut.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Myron is making the claim that dead is better than red.,Myron is making the claim that dead is better than red.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Kim likes Sandy and Lee likes to Leslie.,Kim likes Sandy and Lee likes Leslie.,0,0.075,2.662575424013133,1.6317399989009074,0.2864820496444443
+Mary always has preferred lemons to limes.,Mary always prefers lemons to limes.,1,0.1666666666666666,1.945905006215803,1.394956990812191,0.2054584745700072
+The man eager to start the meeting is John's sister.,The man eager to start the meeting is John's sister.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That the sun was out was obvious.,That the sun was out was obvious.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"That he was sick, we talked about for days.","That he was sick, we talked about for days.",1,0.0,13.815511557963774,3.716922323369668,1.0
+Aphrodite misses Gilgamesh.,Aphrodite misses Gilgamesh.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Bill seems to him to be handsome.,Bill seems to him to be handsome.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Which boy and the girl embraced?,Which boy and the girl were embraced?,0,0.15625,2.001474465095095,1.414734768461953,0.2122261318657984
+The Greeks arrived all.,The Greeks arrived all over.,0,0.217391304347826,1.7227628191799176,1.312540597154967,0.1772568273624994
+Steve tossed the ball to Anna.,Steve tossed the ball to Anna.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Which city do you believe the claim that Philip would invade?,Which city do you believe the claim that Philip would invade?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I gave myself the bucket of ice cream.,I gave myself the bucket of ice cream.,1,0.0,13.815511557963774,3.716922323369668,1.0
+We Americans and the British pamper ourselves.,We Americans and the British pamper ourselves.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Sharon flinched.,Sharon flinched.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary persuaded to leave John.,Mary persuaded John to leave.,0,0.3448275862068966,1.360974396729273,1.166608073317373,0.1273209181247586
+What place did you travel to?,What place did you travel to?,1,0.0,13.815511557963774,3.716922323369668,1.0
+The gardener watered the flowers flat.,The gardener watered the flowers flat.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The pirates drowned the sailor.,The pirates drowned the sailor.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The sheep cry,The sheep cry.,1,0.0769230769230769,2.6390452582707558,1.6245138529020784,0.2840093714418952
+"They said that Tom would pay up, and pay up I believe that he did.","They said that Tom would pay up, and I believe that he did.",1,0.106060606060606,2.3445407676752783,1.5311893311002651,0.2520751272597196
+Sodium is a little too peppy for me to want to try mixing and water in a teacup.,Sodium is a little too peppy for me to want to try mixing water in a teacup.,0,0.05,3.044503390303919,1.744850535233296,0.3251867696588272
+Wash yourselves.,Wash yourself.,1,0.1875,1.845822199284128,1.3586103927484612,0.1930212167587811
+I walk.,I walk.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"Near everyone Angleton did, Dulles stood.","Near everyone Angleton did, Dulles stood.",0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Tracy became awarded a prize.,Tracy was awarded a prize.,0,0.1724137931034483,1.9169176651396933,1.384527957514652,0.2018898166280472
+It rained,It rained.,1,0.1111111111111111,2.3025769930341404,1.5174244604045832,0.2473649960589889
+John is said to be rich.,John is said to be rich.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Ted cried to sleep.,Ted cried to sleep.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+We spotted that they were running.,We spotted that they were running.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Peter is owners of pigs.,Peter is the owner of a pig.,0,0.3333333333333333,1.3862921111241095,1.1774090670298534,0.1310168553121677
+Paula hit at the fence.,Paula hit the fence.,1,0.1304347826086956,2.159477467331088,1.4695160656934267,0.2309714657676566
+I know several people that she kissed.,I know several people that she kissed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+What she did was own all the land round here.,What she did was own all the land around here.,0,0.0222222222222222,3.828597375761956,1.956680192510252,0.3976716843404631
+Cynthia munched at peaches.,Cynthia munched on peaches.,0,0.074074074074074,2.6741360805517025,1.6352785941703336,0.287692903589517
+The Shah slept in a bed.,The Shah slept in a bed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Steve tossed at the ball.,Steve tossed the ball.,0,0.12,2.233584781065227,1.4945182438047475,0.2395268341261331
+The company in which they have invested left.,The company in which they have invested.,1,0.1111111111111111,2.3025769930341404,1.5174244604045832,0.2473649960589889
+Jessica loaded boxes into the wagon.,Jessica loaded boxes into the wagon.,1,0.0,13.815511557963774,3.716922323369668,1.0
+the rice was cooked by Bill.,the rice was cooked by Bill.,1,0.0,13.815511557963774,3.716922323369668,1.0
+A variety of styles have been in vogue for the last year.,A variety of styles have been in vogue for the last year.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+I sent Bill money to Mary to Sam.,I sent Bill money to Mary to Sam.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Which city and to which conference did Bill go to?,Which city and to which conference did Bill go to?,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+Sandy sang me a song.,Sandy sang me a song.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"If John wants to succeed in corporate life, he has to know the rules of the game.","If John wants to succeed in corporate life, he has to know the rules of the game.",1,0.0,13.815511557963774,3.716922323369668,1.0
+All Mr Collins does is praise Lady de Bourg.,All Mr Collins does is praise Lady de Bourg.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Mary has more enemies than Bill has friends.,Mary has more enemies than Bill has friends.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He seems intelligent to study medicine.,He seems intelligent to study medicine.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I don't know what to do.,I don't know what to do.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"I know I should go to the dentist's, but I just don't want to.","I know I should go to the dentist, but I just don't want to.",1,0.032258064516129,3.465705872029748,1.8616406398738043,0.3651505824664851
+It is likely that Patrick left.,It is likely that Patrick left.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Buffy couldn't do 100 push ups and somebody laughed.,Buffy couldn't do 100 push ups and somebody laughed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+"John left at 11 and at 12, Bill.",John left at 11 and Bill at 12.,0,0.34375,1.3633026779942838,1.167605531844674,0.1276622333927871
+He was hoping for too much.,He was hoping for too much.,1,0.0,13.815511557963774,3.716922323369668,1.0
+That the defendant had been rude was stoutly denied by his lawyer.,That the defendant had been rude was stoutly denied by his lawyer.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He failed chemistry because he can't understand it.,He failed chemistry because he can't understand it.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The horse budged.,The horse budged.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The tree gradually dropped its fruit to the ground.,The tree gradually dropped its fruit to the ground.,1,0.0,13.815511557963774,3.716922323369668,1.0
+the girls likes themselves.,the girls like themselves.,1,0.037037037037037,3.332178474824947,1.8254255599243008,0.352758328170873
+Gloria dozed.,Gloria dozed.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The kids were failed as a father.,The kids failed as a father.,0,0.1515151515151515,2.028142515734741,1.4241286865079086,0.2154405889764811
+We need some technician to help us.,We need some technicians to help us.,1,0.0285714285714285,3.5834849112903453,1.8930094852615889,0.3758845283682251
+"I demand that John pay more, the more he eats.","I demand that John pay more, the more he eats.",1,0.0,13.815511557963774,3.716922323369668,1.0
+A pregnant woman hit a girl.,A pregnant woman hit a girl.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Dracula thought that he was the Prince of Darkness.,Dracula thought that he was the Prince of Darkness.,1,0.0,13.815511557963774,3.716922323369668,1.0
+I'm glad anybody likes me!,I'm glad anybody likes me!,1,0.0,13.815511557963774,3.716922323369668,1.0
+"The lady singing with a boy is a genius, isn't he?","The lady singing with a boy is a genius, isn't he?",1,0.0,13.815511557963774,3.716922323369668,1.0
+I put the book on the desk on Sunday.,I put the book on the desk on Sunday.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The bag is bulging.,The bag is bulging.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Benjamin gave the cloak to Lee.,Benjamin gave the cloak to Lee.,1,0.0,13.815511557963774,3.716922323369668,1.0
+There was him in the garden.,There was him in the garden.,0,0.1,2.397886181938866,1.548510956350928,0.2580023262392278
+The socks are ready for you to try them and the shoes on.,The socks are ready for you to try them and the shoes on.,1,0.0,13.815511557963774,3.716922323369668,1.0
+Who seemed that had poisoned Jason?,Who seemed to have poisoned Jason?,0,0.1428571428571428,2.079435416703953,1.4420247628608716,0.2215643564614303
+"When John eats more, keep your mouth shut tighter, OK?","When John eats more, keep your mouth shut tighter, OK?",1,0.0,13.815511557963774,3.716922323369668,1.0
+My uncle doesn't have a spouse but your aunt does and he is lying on the floor.,My uncle doesn't have a spouse but your aunt does and he is lying on the floor.,1,0.0,13.815511557963774,3.716922323369668,1.0
+The proof that this set is recursive is difficult.,The proof that this set is recursive is difficult.,1,0.0,13.815511557963774,3.716922323369668,1.0
+He can simply not have been working.,He simply cannot have been working.,1,0.1944444444444444,1.8152856610032824,1.347325373101569,0.1891596531949215
+Any lawyer could tell you that.,Any lawyer could tell you that.,1,0.0,13.815511557963774,3.716922323369668,1.0
+John believes Bill to have slept.,John believes Bill to have slept.,1,0.0,13.815511557963774,3.716922323369668,1.0

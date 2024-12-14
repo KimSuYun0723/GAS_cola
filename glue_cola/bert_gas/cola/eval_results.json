@@ -1,0 +1,8 @@
+{
+    "eval_MCC": 0.5663612717116931,
+    "eval_loss": 0.1401222050189972,
+    "eval_runtime": 7.4338,
+    "eval_samples": 1043,
+    "eval_samples_per_second": 140.304,
+    "eval_steps_per_second": 8.878
+}

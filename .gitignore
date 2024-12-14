@@ -1,0 +1,10 @@
+bert_cased/output_dir/
+bert_cased/output_dir_2/
+bert_cased/output_dir_3/
+bert_cased/output_dir_4/
+bert_cased/wandb/
+bert_gas/output_dir/
+bert_gas/output_dir_3/
+bert_gas/output_dir_4/
+bert_gas/wandb/
+glue_cola/wandb/
