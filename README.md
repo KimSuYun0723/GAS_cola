@@ -23,16 +23,17 @@ This is a repository for experiments of GAS(Gradient Grammatical Acceptability S
  ┃ ┃ ┣ 📜 all_results.json    // 평가 결과     
  ┃ ┃ ┣ 📜 eval_results.json        
  ┃ ┃ ┣ 📜 README.md           // bert/cola 결과 설명 문서     
- ┃ ┃     
+ ┃      
  ┃ ┣ 📂 bert_gas/cola         // bert_cased(GAS labeled) 결과     
  ┃ ┃ ┣ 📜 all_results.json    // 평가 결과     
  ┃ ┃ ┣ 📜 eval_results.json       
  ┃ ┃ ┣ 📜 README.md           // bert_gas/cola 결과 설명 문서     
- ┃ ┃
+ ┃      
  ┃ ┣ 📜 glue_bert_cola.sh     // Baseline 평가 실행 Shell Script     
  ┃ ┣ 📜 glue_bert_gas.sh      // GAS labeled CoLA로 학습된 모델 평가 실행 Shell Script     
  ┃ ┣ 📜 run_glue_gas.py       // GAS labeled CoLA로 학습된 모델 평가     
- ┃ ┣ 📜 run_glue.py           // Baseline 평가     
+ ┃ ┣ 📜 run_glue.py           // Baseline 평가
+ ┃     
  ┣ 📜 .gitignore                 
  ┣ 📜 README.md
 ``` 
